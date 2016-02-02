@@ -1,6 +1,7 @@
 package com.test.basic.chapter1;
 
 /**
+<<<<<<< HEAD
  * Created by beigui on 2016/1/26.
  * 功能：控制台打印输出Hello World。
  * 确认java配置，开始java之旅
@@ -15,6 +16,9 @@ package com.test.basic.chapter1;
  *      |
  *      |
  *  > Hello World!
+=======
+ * Created by kongxiangyun on 2016/1/26.
+>>>>>>> 9dab4e9... hello world demo
  */
 public class HelloWorld {
     public static void main(String[] args) {
