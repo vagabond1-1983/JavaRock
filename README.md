@@ -1,8 +1,9 @@
 # javaDemo
 
-项目为java demos，javase的基础demo 
+项目为java demos，javase的基础demo
 - 第一章：Java语言概述
 	- 例1：Hello World -- java开始之旅
+	- [java环境准备](https://github.com/vagabond1-1983/javaDemo/issues/2)
 - 第二章：基本语法
 	- 例1：BasicDataTypes -- 基本数据类型举例(@int, boolean, char)
 	- 例2：Parameter -- 定义变量、初始化、赋值(@初始化)
