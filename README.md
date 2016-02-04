@@ -26,3 +26,4 @@
     - 例4：Constructor -- 构造函数
     - 例5：ThisDemo -- this在类中的使用
     - 例6：StaticDemo -- static静态变量、静态方法
+    三大特性：封装、继承、多态
