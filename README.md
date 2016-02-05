@@ -28,3 +28,4 @@
     - 例5：ThisDemo -- this在类中的使用
     - 例6：StaticDemo -- static静态变量、静态方法
     三大特性：封装、继承、多态
+    - 例7：PackageIdentity -- 封装，访问控制符(public,private)
