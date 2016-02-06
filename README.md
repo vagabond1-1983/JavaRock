@@ -27,7 +27,7 @@
     - 例4：Constructor -- 构造函数
     - 例5：ThisDemo -- this在类中的使用
     - 例6：StaticDemo -- static静态变量、静态方法
-    三大特性：封装、继承、多态
+    - 三大特性：封装、继承、多态
     - 例7：PackageIdentity -- 封装，访问控制符(public,private)
-    -- 解释包：包就是package...，作用：区别相同名字的类，当类很多时更好的管理类，控制访问范围
+    - 解释包：包就是package...，作用：区别相同名字的类，当类很多时更好的管理类，控制访问范围
         命令规范：com.company.app
