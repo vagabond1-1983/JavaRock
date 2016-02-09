@@ -36,3 +36,6 @@
     - 方法重载和重写
     - 例9：overloadVSoverride/OverloadDemo -- 重载
     - 例10：overloadVSoverride/OverrideDemo -- 重写
+    - 多态
+
+    - 作业：定义一个图形父类，包含求面积的方法，扩展子类圆、矩形、三角形等类，分别求面积。
