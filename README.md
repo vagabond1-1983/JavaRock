@@ -16,6 +16,7 @@
     - 例2：SwitchDemo -- switch分支(switch/case)
     - 例3：ForDemo -- for循环(for)
     - 例4：WhileDemo -- while循环(while/do.while)
+- TODO 数组和字符串
 - 第四章：类和对象
     - 例1：ClassDemo -- 类和对象的概念
     - 例2：PropertyDemo -- 成员变量
@@ -39,3 +40,7 @@
     - 多态
 
     - 作业：定义一个图形父类，包含求面积的方法，扩展子类圆、矩形、三角形等类，分别求面积。
+    抽象类和接口
+- 第五章：集合
+    - List - ArrayList
+    - Map - HashMap
