@@ -38,7 +38,7 @@
     - 例9：overloadVSoverride/OverloadDemo -- 重载
     - 例10：overloadVSoverride/OverrideDemo -- 重写
     - 多态
-
+    - 例11：multiStatus/MultiStatusDemo -- 多态，处理问题的方式
     - 作业：定义一个图形父类，包含求面积的方法，扩展子类圆、矩形、三角形等类，分别求面积。
     抽象类和接口
 - 第五章：集合
