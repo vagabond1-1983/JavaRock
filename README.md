@@ -16,7 +16,11 @@
     - 例2：SwitchDemo -- switch分支(switch/case)
     - 例3：ForDemo -- for循环(for)
     - 例4：WhileDemo -- while循环(while/do.while)
-- TODO 数组和字符串
+- 数组和字符串
+    - array/ArrayDemo -- 数组 初始化、遍历、工具类
+    - string/StringDemo -- 字符串
+    - 随堂：把字符串倒序输出。比方："abcdefg" --> "gfedcba"
+    - 自学StringBuffer和StringBuilder
 - 第四章：类和对象
     - 例1：ClassDemo -- 类和对象的概念
     - 例2：PropertyDemo -- 成员变量
