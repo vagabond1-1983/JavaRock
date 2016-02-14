@@ -46,7 +46,8 @@
     - 作业：定义一个图形父类，包含求面积的方法，扩展子类圆、矩形、三角形等类，分别求面积。
     - 抽象类和接口
     - 例12：abstractDemo/AbstractDemo -- 抽象类，关键字 abstract
-    - 例13：接口
+    - 接口概念：(https://github.com/vagabond1-1983/blog/issues/31)[https://github.com/vagabond1-1983/blog/issues/31]
+    -
 - 第五章：集合
     - List - ArrayList
     - Map - HashMap
