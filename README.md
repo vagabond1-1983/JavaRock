@@ -47,7 +47,7 @@
     - 抽象类和接口
     - 例12：abstractDemo/AbstractDemo -- 抽象类，关键字 abstract
     - 接口概念：(https://github.com/vagabond1-1983/blog/issues/31)[https://github.com/vagabond1-1983/blog/issues/31]
-    -
+    - 例13：interfaceDemo/InterfaceDemo -- 接口
 - 第五章：集合
     - List - ArrayList
     - Map - HashMap
