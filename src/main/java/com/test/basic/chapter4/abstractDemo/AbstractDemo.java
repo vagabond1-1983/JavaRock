@@ -6,6 +6,8 @@ package com.test.basic.chapter4.abstractDemo;
  */
 public class AbstractDemo {
     public static void main(String[] args) {
+        //抽象类不能被实例化
+//        Animal a = new Animal();
         Animal cat = new Cat();
         cat.cry();
     }
