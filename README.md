@@ -54,5 +54,6 @@
     - 继承关系参见Collection.md
     - ListDemo --介绍ArrayList的使用方式
     - MapDemo -- 介绍HashMap的使用方式
-- 第六章：文件读写
-- 第七章：JDBC连接数据库
+- 第六章：异常
+- 第七章：文件读写
+- 第八章：JDBC连接数据库
