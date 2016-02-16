@@ -5,11 +5,11 @@
 	- 例1：Hello World -- java开始之旅
 	- [java环境准备](https://github.com/vagabond1-1983/javaDemo/issues/2)
 - 第二章：基本语法
-	- 例1：BasicDataTypes -- 基本数据类型举例(@int, boolean, char)
-	- 例2：Parameter -- 定义变量、初始化、赋值(@初始化)
-	- 例3：MathOperators -- 运算符，着重算术运算符和优先级的掌握(@++/--，优先级)
-	- 例4：RelationOperators -- 运算符，着重关系运算符的掌握(@==/>/<)
-	- 例5：LogicalOperators -- 运算符，着重逻辑运算符的掌握(@&&/||/!，与或非)
+	- 例1：BasicDataTypes -- 基本数据类型举例(int, boolean, char)
+	- 例2：Parameter -- 定义变量、初始化、赋值(初始化)
+	- 例3：MathOperators -- 运算符，着重算术运算符和优先级的掌握(++/--，优先级)
+	- 例4：RelationOperators -- 运算符，着重关系运算符的掌握(==/>/<)
+	- 例5：LogicalOperators -- 运算符，着重逻辑运算符的掌握(&&/||/!，与或非)
 	- 作业：Homework_operator
 - 第三章：流程控制
     - 例1：IfDemo -- if分支(if/else)
