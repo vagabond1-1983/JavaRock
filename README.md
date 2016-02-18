@@ -55,8 +55,11 @@
     - ListDemo --介绍ArrayList的使用方式
     - MapDemo -- 介绍HashMap的使用方式
 - 第六章：异常
-    - 异常概念说明：[Exception.md](Exception.md)
+    - 异常概念说明：[Exception](Exception.md)
     - 例1：WhatsException -- 什么是异常
     - 例2：HandleException -- 简单处理异常(try/catch)
 - 第七章：文件读写
+    - 流的概念[Stream](Stream.md)
+    - 例1：FileDemo -- 文件的基本操作
+    - 例2：FileReadWriteStreamDemo -- 文件写入和读取
 - 第八章：JDBC连接数据库
