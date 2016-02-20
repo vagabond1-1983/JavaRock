@@ -63,4 +63,6 @@
     - 例1：FileDemo -- 文件的基本操作
     - 例2：FileReadWriteStreamDemo -- 文件写入和读取
     - 例3：FileReaderWriterDemo -- 文件写入和读取
+    - 例4：BufferedStreamDemo -- 文件写入和读取 + 缓冲区
+    - 例5：BufferedReaderWriterDemo -- 文件写入和读取 + 缓冲区
 - 第八章：JDBC连接数据库
