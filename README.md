@@ -66,3 +66,8 @@
     - 例4：BufferedStreamDemo -- 文件写入和读取 + 缓冲区
     - 例5：BufferedReaderWriterDemo -- 文件写入和读取 + 缓冲区
 - 第八章：JDBC连接数据库
+    - 例1：MySQLQueryDemo -- 查询数据
+    - 例2：MySQLInsertDemo -- 插入数据
+    - 例3：MySQLUpdateDemo -- 更新数据
+    - 例4： -- 标准化写法
+    - 例5： -- 工具类/框架介绍
