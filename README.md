@@ -5,14 +5,14 @@
 	- [java环境准备](https://github.com/vagabond1-1983/javaDemo/issues/2)	
 	- 例1：[Hello World](src/main/java/com/test/basic/chapter1/HelloWorld.java) -- java开始之旅
 - 第二章：基本语法
-	- 例1：BasicDataTypes -- 基本数据类型举例(int, boolean, char)
-	- 例2：Parameter -- 定义变量、初始化、赋值(初始化)
-	- 例3：MathOperators -- 运算符，着重算术运算符和优先级的掌握(++/--，优先级)
-	- 例4：RelationOperators -- 运算符，着重关系运算符的掌握(==/>/<)
-	- 例5：LogicalOperators -- 运算符，着重逻辑运算符的掌握(&&/||/!，与或非)
-	- 作业：Homework_operator
+	- 例1：[BasicDataTypes](src/main/java/com/test/basic/chapter2/BasicDataTypes.java) -- 基本数据类型举例(int, boolean, char)
+	- 例2：[Parameter](src/main/java/com/test/basic/chapter2/Parameter.java) -- 定义变量、初始化、赋值(初始化)
+	- 例3：[MathOperators](src/main/java/com/test/basic/chapter2/MathOperators.java) -- 运算符，着重算术运算符和优先级的掌握(++/--，优先级)
+	- 例4：[RelationOperators](src/main/java/com/test/basic/chapter2/RelationOperators.java) -- 运算符，着重关系运算符的掌握(==/>/<)
+	- 例5：[LogicalOperators](src/main/java/com/test/basic/chapter2/LogicalOperators.java) -- 运算符，着重逻辑运算符的掌握(&&/||/!，与或非)
+	- 作业：[Homework_operator](src/main/java/com/test/basic/chapter2/Homework_operator.java)
 - 第三章：流程控制
-    - 例1：IfDemo -- if分支(if/else)
+    - 例1：[IfDemo](src/main/java/com/test/basic/chapter3/ifDemo.java) -- if分支(if/else)
     - 例2：SwitchDemo -- switch分支(switch/case)
     - 例3：ForDemo -- for循环(for)
     - 例4：WhileDemo -- while循环(while/do.while)
