@@ -1,3 +1,3 @@
-编写HelloWorld.java文件时，会生成一个java文件，里面有源代码。
-通过java编译器即javac.exe，把java文件编译成java字节码文件(.class文件)，命令是javac HelloWorld.java。会在同级目录下生成一个HelloWorld.class文件
-然后通过解释执行器即java.exe，将字节码文件加载到java虚拟机中，运行这个程序。输出Hello World。java虚拟机可以运行在Mac,Windows,Linux等系统中。
+- 编写HelloWorld.java文件时，会生成一个java文件，里面有源代码。
+- 通过java编译器即javac.exe，把java文件编译成java字节码文件(.class文件)，命令是javac HelloWorld.java。会在同级目录下生成一个HelloWorld.class文件
+- 然后通过解释执行器即java.exe，将字节码文件加载到java虚拟机中，运行这个程序。输出Hello World。java虚拟机可以运行在Mac,Windows,Linux等系统中。
