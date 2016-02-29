@@ -7,9 +7,11 @@ package com.test.basic.chapter1;
  * 说明：
  *  Hello World.java -- java源文件
  *      |
+ *      |   javac HelloWorld.java
  *      |
  *  Hello World.class -- idea里在target的对应包下，编译后的字节码文件
  *      |
+ *      |   java HelloWorld
  *      |
  *  JVM -- java虚拟机，字节码文件在java虚拟机中执行
  *      |
