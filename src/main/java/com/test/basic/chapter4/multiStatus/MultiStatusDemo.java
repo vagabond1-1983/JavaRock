@@ -2,7 +2,7 @@ package com.test.basic.chapter4.multiStatus;
 
 /**
  * Created by beigui on 2016/2/11.
- * 功能：主人给不同的动物喂食不同食物
+ * 功能：多态。主人给不同的动物喂食不同食物
  *                  Master
  *      Food   ---  feed() ---  Animal
  *      / \                      / \

@@ -2,7 +2,7 @@ package com.test.basic.chapter4.extendsDemo;
 
 /**
  * Created by beigui on 2016/2/8.
- * 功能：创建人和小学生，人在思考，小学生在学习
+ * 功能：继承。创建人和小学生，人在思考，小学生在学习
  */
 public class PersonsMain {
     public static void main(String[] args) {
