@@ -4,7 +4,7 @@
 - 第一章：Java语言概述
 	- [java环境准备](https://github.com/vagabond1-1983/javaDemo/issues/2)	
 	- 例1：[Hello World](src/main/java/com/test/basic/chapter1/HelloWorld.java) -- java开始之旅
-	- [Hello World运行过程](src/main/java/com/test/basic/chapter1/HelloWorld运行过程.md)
+	- [Hello World运行过程.md](src/main/java/com/test/basic/chapter1/HelloWorld运行过程.md)
 - 第二章：基本语法
 	- 例1：[BasicDataTypes](src/main/java/com/test/basic/chapter2/BasicDataTypes.java) -- 基本数据类型举例(int, boolean, char)
 	- 例2：[Parameter](src/main/java/com/test/basic/chapter2/Parameter.java) -- 定义变量、初始化、赋值(初始化)
@@ -56,11 +56,11 @@
     - [ListDemo](src/main/java/com/test/basic/chapter5/ListDemo.java) --介绍ArrayList的使用方式
     - [MapDemo](src/main/java/com/test/basic/chapter5/MapDemo.java) -- 介绍HashMap的使用方式
 - 第六章：异常
-    - 异常概念说明：[Exception](src/main/java/com/test/basic/chapter6/Exception.md)
+    - 异常概念说明：[Exception.md](src/main/java/com/test/basic/chapter6/Exception.md)
     - 例1：[WhatsException](src/main/java/com/test/basic/chapter6/WhatsException.java) -- 什么是异常
     - 例2：[HandleException](src/main/java/com/test/basic/chapter6/HandleException.java) -- 简单处理异常(try/catch)
 - 第七章：文件读写
-    - 流的概念[Stream](src/main/java/com/test/basic/chapter7/Stream.md)
+    - 流的概念[Stream.md](src/main/java/com/test/basic/chapter7/Stream.md)
     - 例1：[FileDemo](src/main/java/com/test/basic/chapter7/FileDemo.java) -- 文件的基本操作
     - 例2：[FileReadWriteStreamDemo](src/main/java/com/test/basic/chapter7/FileReadWriteStreamDemo.java) -- 文件写入和读取
     - 例3：[FileReaderWriterDemo](src/main/java/com/test/basic/chapter7/FileReaderWriterDemo.java) -- 文件写入和读取
