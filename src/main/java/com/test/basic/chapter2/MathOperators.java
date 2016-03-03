@@ -10,6 +10,7 @@ public class MathOperators {
         int a = 1;
         System.out.println("a = " + a);
         int b = a++;
+        //a++ ==> a = a + 1
         System.out.println("a = " + a);
         System.out.println("b = " + b);
         System.out.println("int b = a++ 可分解为 int b = a; \n\t\t\t\t\t a = a+1;");
@@ -21,6 +22,10 @@ public class MathOperators {
         System.out.println("c = " + c);
         System.out.println("d = " + d);
         System.out.println("int d = ++c 可分解为 c = c + 1; \n\t\t\t\t   int d = c;");
+
+        //d-- ==> d = d - 1
+        d--;
+        System.out.println("d = " + d);
 
 
         //变态题

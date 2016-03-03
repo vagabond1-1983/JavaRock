@@ -12,6 +12,9 @@ package com.test.basic.chapter2;
  */
 public class BasicDataTypes {
     public static void main(String[] args) {
+        byte bt = 127;
+        System.out.println(bt);
+
         int a = 1;
         int b = 2;
         int c = a + b;
@@ -21,6 +24,9 @@ public class BasicDataTypes {
         System.out.println("flag = " + flag);
         flag = false;
         System.out.println("flag now = " + flag);
+
+        char c1 = '中';
+        System.out.println(c1);
 
     }
 }
