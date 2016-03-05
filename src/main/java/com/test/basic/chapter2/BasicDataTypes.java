@@ -27,6 +27,5 @@ public class BasicDataTypes {
 
         char c1 = '中';
         System.out.println(c1);
-
     }
 }
