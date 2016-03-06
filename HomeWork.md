@@ -6,3 +6,4 @@
     - [lichangxin](src/main/java/com/bt/xlt/homework0305/LiChangXin.java)
     - [xueguiyang](src/main/java/com/bt/xlt/homework0305/XueGuiYang.java) -- 能考虑到三角形的边长可以是非整数，很好
     - [jiyaping](src/main/java/com/bt/xlt/homework0305/JiYaPingHomework_operator.java) -- 逻辑与和按位与
+    - [qizhi](src/main/java/com/bt/xlt/homework0305/QiZhiTriangle.java)
