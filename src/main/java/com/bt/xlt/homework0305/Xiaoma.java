@@ -1,13 +1,19 @@
 package com.bt.xlt.homework0305;
 
-public class Xiaoma {
+/**
+ * Reviewer: beigui
+ * Review Date: 2016/3/6
+ * Comments: 能考虑到一些异常情况，有一定的代码基础
+ */
+
+public class XiaoMa {
 
 	public static void main(String[] args) {
 		int x = Integer.parseInt(args[0]);
 		int y = Integer.parseInt(args[1]);
 		int z = Integer.parseInt(args[2]);
 
-		Xiaoma xm = new Xiaoma();
+		XiaoMa xm = new XiaoMa();
 
 		try {
 			xm.Show(x, y, z);

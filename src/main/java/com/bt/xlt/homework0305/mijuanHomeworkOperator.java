@@ -7,7 +7,7 @@ package com.bt.xlt.homework0305;
  * Comments: 能考虑到一些异常情况，并扩展了作业的潜在需求
  *           TODO 请注意写代码的规范，这是协作编程时的重点。
  */
-public class mijuanHomeworkOperator {
+public class MiJuanHomeworkOperator {
     public static void main(String[] args){
         int a = Integer.parseInt(args[0]);
         int b = Integer.parseInt(args[1]);

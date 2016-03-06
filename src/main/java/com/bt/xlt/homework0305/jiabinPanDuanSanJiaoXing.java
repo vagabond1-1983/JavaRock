@@ -6,9 +6,9 @@ import java.util.Scanner;
  * Created by binjia on 2016/3/5.
  * Reviewer: beigui
  * Review Date: 2016/3/6
- * Comments: 能考虑到一些异常情况，并用了不同的用户输入方式
+ * Comments: 能考虑到一些异常情况，并用了不同的用户输入方式，能考虑到三角形的边长可以是非整数，很好
  */
-public class jiabinPanDuanSanJiaoXing {
+public class JiaBinPanDuanSanJiaoXing {
 
     public static void main(String[] args) {
 
