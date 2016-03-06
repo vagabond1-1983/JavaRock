@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Created by binjia on 2016/3/5.
  * Reviewer: beigui
  * Review Date: 2016/3/6
- * Comments: 能考虑到一些异常情况，并用了不同的用户输入方式， A
+ * Comments: 能考虑到一些异常情况，并用了不同的用户输入方式
  */
 public class jiabinPanDuanSanJiaoXing {
 

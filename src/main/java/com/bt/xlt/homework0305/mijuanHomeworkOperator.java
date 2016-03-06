@@ -4,7 +4,7 @@ package com.bt.xlt.homework0305;
  * Created by mijua on 3/5/2016.
  * Reviewer: beigui
  * Review Date: 2016/3/5
- * Comments: 能考虑到一些异常情况，并扩展了作业的潜在需求， A
+ * Comments: 能考虑到一些异常情况，并扩展了作业的潜在需求
  *           TODO 请注意写代码的规范，这是协作编程时的重点。
  */
 public class mijuanHomeworkOperator {
