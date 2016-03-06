@@ -3,10 +3,14 @@ package com.bt.xlt.homework0305;
 public class Xiaoma {
 
 	public static void main(String[] args) {
+		int x = Integer.parseInt(args[0]);
+		int y = Integer.parseInt(args[1]);
+		int z = Integer.parseInt(args[2]);
 
 		Xiaoma xm = new Xiaoma();
+
 		try {
-			xm.Show(1, 2, 3);
+			xm.Show(x, y, z);
 		} catch (RecomException e) {
 
 			System.out.println(e.getMessage());
