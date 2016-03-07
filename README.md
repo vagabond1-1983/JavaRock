@@ -21,7 +21,7 @@
 - 数组和字符串
     - [array/ArrayDemo](src/main/java/com/test/basic/array/ArrayDemo.java) -- 数组 初始化、遍历、工具类
     - [GetSecondMaxNum](src/main/java/com/test/basic/array/GetSecondMaxNum.java) -- 获取数组中的次大数
-    - TODO 冒泡排序(分析，思路，步骤，代码)
+    - TODO [BubbleSort](src/main/java/com/test/basic/array/BubbleSort.java) -- 冒泡排序(分析，思路，步骤，代码)
     - [string/StringDemo](src/main/java/com/test/basic/string/StringDemo.java) -- 字符串
     - 随堂：把字符串倒序输出。比方："abcdefg" --> "gfedcba"
     - 自学StringBuffer和StringBuilder
