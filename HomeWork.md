@@ -19,6 +19,8 @@
         - 赋值语句写法 int a = b; 中间空格不可少，这样别人在看的时候更清晰
         - 判断语句写法 if (true) {}   if后面加一个空格
         - 代码缩进是一个tab
+     - 编码格式
+        - 会有同学发过来后是乱码的情况，请确认下项目的编码格式为UTF-8
      - 作业存放位置
         - 地址在 [https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/)下面会有每期的作业文件夹
         - 如何上传？右边有Upload files按钮，注册好了之后，把文件上传到相应的日期文件夹下面，起名规则见代码规范。多个文件起名规则也类同
