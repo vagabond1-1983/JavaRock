@@ -17,7 +17,7 @@
     - 例2：[SwitchDemo](src/main/java/com/test/basic/chapter3/SwitchDemo.java) -- switch分支(switch/case)
     - 例3：[ForDemo](src/main/java/com/test/basic/chapter3/ForDemo.java) -- for循环(for)
     - 例4：[WhileDemo](src/main/java/com/test/basic/chapter3/WhileDemo.java) -- while循环(while/do.while)
-    - TODO break continue return 跳转语句
+    - 例5：[SkipDemo](src/main/java/com/test/basic/chapter3/SkipDemo.java) -- break continue return 跳转语句
 - 数组和字符串
     - [array/ArrayDemo](src/main/java/com/test/basic/array/ArrayDemo.java) -- 数组 初始化、遍历、工具类
     - TODO 冒泡排序(分析，思路，步骤，代码)
