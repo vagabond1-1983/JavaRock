@@ -9,6 +9,7 @@
     - [qizhi](src/main/java/com/bt/xlt/homework0305/QiZhiTriangle.java)
     - [maxiaoyu](src/main/java/com/bt/xlt/homework0305/MaXiaoYu.java) -- 不同的思路，同学分享下
     - [lidongkun](src/main/java/com/bt/xlt/homework0305/LiDongKunHomework_operator.java)
+    - [liwen](src/main/java/com/bt/xlt/homework0305/LiWenHomework_operator.java)
 
     注意点
     - 代码规范
