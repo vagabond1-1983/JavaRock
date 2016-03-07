@@ -78,3 +78,5 @@
 - 附：
     - Intellij IDEA详细使用说明参见另一个工程[intellij-idea-tutorial](https://github.com/vagabond1-1983/IntelliJ-IDEA-Tutorial)
     - [代码规范]()
+    - 如何把项目导入到本地工程中
+    - Java API文档，学会查文档
