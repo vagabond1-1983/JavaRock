@@ -7,3 +7,4 @@
     - [xueguiyang](src/main/java/com/bt/xlt/homework0305/XueGuiYang.java) -- 能考虑到三角形的边长可以是非整数，很好
     - [jiyaping](src/main/java/com/bt/xlt/homework0305/JiYaPingHomework_operator.java) -- 逻辑与和按位与
     - [qizhi](src/main/java/com/bt/xlt/homework0305/QiZhiTriangle.java)
+    - [maxiaoyu](src/main/java/com/bt/xlt/homework0305/MaXiaoYu.java) -- 不同的思路，分享下
