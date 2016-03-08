@@ -26,10 +26,10 @@
     - 随堂：把字符串倒序输出。比方："abcdefg" --> "gfedcba"
     - 自学StringBuffer和StringBuilder
 - 第四章：类和对象
-    - 例1：[ClassDemo](src/main/java/com/test/basic/chapter4/ClassDemo.java) -- 类和对象的概念
-    - 例2：[PropertyDemo](src/main/java/com/test/basic/chapter4/PropertyDemo.java) -- 成员变量
-    - 例3：[MethodDemo](src/main/java/com/test/basic/chapter4/MethodDemo.java) -- 成员方法
-    - 随堂：设计一个计算机类，要求如下：
+    - 例1：[ClassDemo](src/main/java/com/test/basic/chapter4/classDemo/ClassDemo.java) -- 类和对象的概念
+    - 例2：[PropertyDemo](src/main/java/com/test/basic/chapter4/classDemo/PropertyDemo.java) -- 成员变量
+    - 例3：[MethodDemo](src/main/java/com/test/basic/chapter4/methodDemo/MethodDemo.java) -- 成员方法
+    - 作业：设计一个计算机类，要求如下：
             属性：品 牌、颜色、cpu、内存容量、价格、工作状态
             方法：打开、关闭、休眠
            创建一个计算机对象，调用打开、关闭方法。
