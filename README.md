@@ -30,9 +30,12 @@
     - 例2：[PropertyDemo](src/main/java/com/test/basic/chapter4/classDemo/PropertyDemo.java) -- 成员变量
     - 例3：[MethodDemo](src/main/java/com/test/basic/chapter4/methodDemo/MethodDemo.java) -- 成员方法
     - 作业：设计一个计算机类，要求如下：
-            属性：品 牌、颜色、cpu、内存容量、价格、工作状态
-            方法：打开、关闭、休眠
-           创建一个计算机对象，调用打开、关闭方法。
+           - 属性：品 牌、颜色、cpu、内存容量、价格、工作状态
+           - 方法：打开、关闭、休眠
+           - 创建一个计算机对象，调用打开、关闭方法。
+           -- 打开时显示品牌、颜色、cpu、内存容量、价格、工作状态为正常；
+           -- 关闭时，显示工作状态为停止；
+           -- 休眠时，显示工作状态为睡眠。
     - 例4：[Constructor](src/main/java/com/test/basic/chapter4/Constructor.java) -- 构造函数
     - 例5：[ThisDemo](src/main/java/com/test/basic/chapter4/ThisDemo.java) -- this在类中的使用
     - 例6：[StaticDemo](src/main/java/com/test/basic/chapter4/StaticDemo.java) -- static静态变量、静态方法
