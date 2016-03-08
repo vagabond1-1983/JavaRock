@@ -50,11 +50,11 @@
     - 例10：[overloadVSoverride/OverrideDemo](src/main/java/com/test/basic/chapter4/overloadVSoverride/OverrideDemo.java) -- 重写
     - 多态
     - 例11：[multiStatus/MultiStatusDemo](src/main/java/com/test/basic/chapter4/multiStatus/MultiStatusDemo.java) -- 多态，处理问题的方式
-    - 作业：定义一个图形父类，包含求面积的方法，扩展子类圆、矩形、三角形等类，分别求面积。
     - 抽象类和接口
     - 例12：[abstractDemo/AbstractDemo](src/main/java/com/test/basic/chapter4/abstractDemo/AbstractDemo.java) -- 抽象类，关键字 abstract
     - 接口概念：[https://github.com/vagabond1-1983/blog/issues/31](https://github.com/vagabond1-1983/blog/issues/31)
     - 例13：[interfaceDemo/InterfaceDemo](src/main/java/com/test/basic/chapter4/interfaceDemo/InterfaceDemo.java) -- 接口
+    - 作业：定义一个图形父类，包含求面积的方法，扩展子类圆、矩形、三角形等类，分别求面积。
 - 第五章：集合
     - 集合 vs 数组：数组的长度是固定的，集合的长度是可变的；数组用来存放基本类型的数据，集合用来存放对象的引用。
     - 常用的集合有List集合、Set集合、Map集合，其中List与Set实现了Collection接口
