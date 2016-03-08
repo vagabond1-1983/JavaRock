@@ -11,6 +11,7 @@
     - [lidongkun](src/main/java/com/bt/xlt/homework0305/LiDongKunHomework_operator.java)
     - [liwen](src/main/java/com/bt/xlt/homework0305/LiWenHomework_operator.java)
     - [weiyuxin](src/main/java/com/bt/xlt/homework0305/WeiYuXinHomeWorkTest.java)
+    - [wangxiaojia](src/main/java/com/bt/xlt/homework0305/WangXiaoJia.java)
 
     注意点
     - 代码规范
