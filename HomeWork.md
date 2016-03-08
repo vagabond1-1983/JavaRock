@@ -12,6 +12,8 @@
     - [10 liwen](src/main/java/com/bt/xlt/homework0305/LiWenHomework_operator.java)
     - [11 weiyuxin](src/main/java/com/bt/xlt/homework0305/WeiYuXinHomeWorkTest.java)
     - [12 wangxiaojia](src/main/java/com/bt/xlt/homework0305/WangXiaoJia.java)
+    - [13 chencaiyu](src/main/java/com/bt/xlt/homework0305/ChenCaiYu.java)
+    - [14 fangweili](src/main/java/com/bt/xlt/homework0305/FangWeiLi.java)
 
     注意点
     - 代码规范
