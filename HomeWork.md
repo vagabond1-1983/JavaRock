@@ -14,6 +14,7 @@
     - [12 wangxiaojia](src/main/java/com/bt/xlt/homework0305/WangXiaoJia.java)
     - [13 chencaiyu](src/main/java/com/bt/xlt/homework0305/ChenCaiYu.java)
     - [14 fangweili](src/main/java/com/bt/xlt/homework0305/FangWeiLi.java)
+    - [15 jichenguang](src/main/java/com/bt/xlt/homework0305/JiChenGuang.java)
 
     注意点
     - 代码规范
