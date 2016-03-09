@@ -9,6 +9,8 @@ package com.bt.xlt.homework0305;
  *
  * Reviewer: beigui
  * Review Date: 2016/3/7
+ * Commonts: 能够深层挖掘需求，很好。
+ *           TODO 注意else if的用法
  */
 public class WeiYuXinHomeWorkTest {
     public static void main(String[] args) {

@@ -4,7 +4,7 @@ package com.bt.xlt.homework0305;
  * Reviewer: beigui
  * Review Date: 2016/3/6
  * Comments: 用了不同的用户输入方式，能考虑到三角形的边长可以是非整数，很好
- *           TODO 请注意写代码的规范，提交作业的正式版本中去掉todo，因为这意味着你有未完成的东西，不符合规范
+ *           TODO 请注意写代码的规范，提交作业的正式版本中去掉todo，因为todo意味着你有未完成的东西，不符合规范
  */
 
 import java.util.Scanner;
