@@ -1,4 +1,4 @@
-package com.test.basic.chapter4;
+package com.test.basic.chapter4.constructorDemo;
 
 /**
  * Created by beigui on 2016/2/1.
@@ -11,13 +11,6 @@ package com.test.basic.chapter4;
  *      5.一个类可以有多个构造函数
  *      6.每个类都有一个默认的构造函数
  */
-public class Constructor {
-    public static void main(String[] args) {
-        Person p = new Person("小明", 25);
-        System.out.println(p.speak());
-    }
-}
-
 class Person {
     String name;
     int age;
