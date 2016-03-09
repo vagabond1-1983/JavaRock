@@ -1,4 +1,4 @@
-package com.test.basic.chapter4;
+package com.test.basic.chapter4.packageDemo;
 
 public class Cat{
     public String name = "小猫";
