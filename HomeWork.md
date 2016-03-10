@@ -1,4 +1,4 @@
-- 3月5日作业
+- [3月5日作业](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0305)
     请编写一个程序，接收用户输入的三个数，判断是否可以组成三角形（两条边相加大于第三条边）。
     - [1 mijuan](src/main/java/com/bt/xlt/homework0305/MiJuanHomeworkOperator.java) -- 代码规范
     - [2 jiabin](src/main/java/com/bt/xlt/homework0305/JiaBinPanDuanSanJiaoXing.java) -- System.in
@@ -15,6 +15,7 @@
     - [13 chencaiyu](src/main/java/com/bt/xlt/homework0305/ChenCaiYu.java)
     - [14 fangweili](src/main/java/com/bt/xlt/homework0305/FangWeiLi.java)
     - [15 jichenguang](src/main/java/com/bt/xlt/homework0305/JiChenGuang.java)
+    - [16 fangxu](src/main/java/com/bt/xlt/homework0305/FangXu.java)
 
     注意点
     - 代码规范
