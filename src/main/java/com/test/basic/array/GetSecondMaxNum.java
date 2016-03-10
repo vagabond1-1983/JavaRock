@@ -14,14 +14,15 @@ public class GetSecondMaxNum {
             System.out.print(array[i] + " ");
         }
         int max = array[0];
-        int secondMax = max;
-        for (int i = 0; i < array.length; i++) {
-            //当前元素是最大数，需要交换
+        int secondMax = 0;
+        for (int i = 1; i < array.length; i++) {
+            //当前元素是最大数，需要更新最大数
             if (array[i] > max) {
-                //之前的最大数变成了次大数，先交换
                 secondMax = max;
-                //再交换最大数
                 max = array[i];
+            } else if (array[i] <= max && array[i] >= secondMax) {
+                //当前元素比次大数大，更新次大数
+                secondMax = array[i];
             }
         }
         System.out.println("max=" + max);
