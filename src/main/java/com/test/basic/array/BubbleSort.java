@@ -9,8 +9,10 @@ package com.test.basic.array;
 public class BubbleSort {
     public static void main(String[] args) {
         int[] array = new int[]{63, 4, 24, 1, 3, 13};
-        System.out.println("冒泡排序法的过程是：");
+        System.out.println("冒泡排序法从小到大排序的过程是：");
+        //i是趟数
         for (int i = 1; i < array.length; i++) {
+            //j是一趟中比较次数
             for (int j = 0; j < array.length - i; j++) {
                 if (array[j] > array[j + 1]) {
                     //swap
