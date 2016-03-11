@@ -16,6 +16,7 @@
     - [14 fangweili](src/main/java/com/bt/xlt/homework0305/FangWeiLi.java)
     - [15 jichenguang](src/main/java/com/bt/xlt/homework0305/JiChenGuang.java)
     - [16 fangxu](src/main/java/com/bt/xlt/homework0305/FangXu.java)
+    - [17 zhaojie](src/main/java/com/bt/xlt/homework0305/ZhaoJieCheckTriangle.java) -- 不错
 
     注意点
     - 代码规范
