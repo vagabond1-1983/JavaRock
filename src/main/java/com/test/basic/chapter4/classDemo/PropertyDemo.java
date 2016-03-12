@@ -1,4 +1,4 @@
-package com.test.basic.chapter4;
+package com.test.basic.chapter4.classDemo;
 
 /**
  * Created by beigui on 2016/1/31.
@@ -18,11 +18,6 @@ package com.test.basic.chapter4;
  *  上面的例子，通过人的特征抽象出的Person类就是一个类，而通过类产生出的一个个个体，小明、小王就是对象
  */
 public class PropertyDemo {
-    static class Person {
-        String name;
-        int age;
-        String gender;
-    }
 
     public static void main(String[] args) {
         Person xiaoming = new Person();

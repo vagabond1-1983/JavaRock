@@ -1,4 +1,4 @@
-package com.test.basic.chapter4;
+package com.test.basic.chapter4.packageDemo;
 
 /**
  * Created by beigui on 2016/2/5.

@@ -1,4 +1,4 @@
-package com.test.basic.chapter4;
+package com.test.basic.chapter4.staticDemo;
 
 /**
  * Created by beigui on 2016/2/2.
@@ -15,19 +15,4 @@ public class StaticDemo {
     }
 }
 
-class Student {
-    String name;
-    int age;
-    static int totalNo = 0;
-    Student(String name, int age) {
-        totalNo++;
-    }
 
-    public int getTotalNo() {
-        return totalNo;
-    }
-
-    public static void speak() {
-        System.out.println("我是红领巾。");
-    }
-}
