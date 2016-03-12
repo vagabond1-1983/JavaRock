@@ -12,13 +12,14 @@ public class WhileDemo {
             sum += i++;
         }
         System.out.println("1+2+3+...+100=" + sum);
+        System.out.println(i);
 
-        /***do.while***/
-        /*int doSum = 0;
+//        do while
+        int doSum = 0;
         int j = 1;
         do {
             doSum += j++;
         } while (j <= 100);
-        System.out.println("1+2+3+...+100=" + doSum);*/
+        System.out.println("1+2+3+...+100=" + doSum);
     }
 }
