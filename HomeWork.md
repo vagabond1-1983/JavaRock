@@ -19,6 +19,22 @@
     - [17 zhaojie](src/main/java/com/bt/xlt/homework0305/ZhaoJieCheckTriangle.java) -- 不错
     - [18 guoleiming](src/main/java/com/bt/xlt/homework0305/GuoLeiMing.java)
 
+- 3月12日作业
+    - [一：求值](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/getValues)
+    给定一个数组62,53,41,84,77,55，输出平均值、最大值、最小值、中位数
+        - [1 jiabin](src/main/java/com/bt/xlt/homework0312/getValues/JiaBinCheckNum.java)
+    - [二：计算机类](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/computer)
+    设计一个计算机类，要求如下：
+        -- 属性：品 牌、颜色、cpu、内存容量、价格、工作状态
+        -- 方法：打开、关闭、休眠
+        -- 创建一个计算机对象，调用打开、关闭方法。
+        -- 打开时显示品牌、颜色、cpu、内存容量、价格、工作状态为正常；
+        -- 关闭时，显示工作状态为停止；
+        -- 休眠时，显示工作状态为睡眠。
+        - [1 jiabin](src/main/java/com/bt/xlt/homework0312/computer/JiaBinComputerTest.java)
+
+
+
     注意点
     - 代码规范
         - 文件名使用姓名做文件名前缀，这样容易区分。比方MaXiaoYu_Homework_Operator
