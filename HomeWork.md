@@ -24,6 +24,7 @@
     给定一个数组62,53,41,84,77,55，输出平均值、最大值、最小值、中位数
         - [1 jiabin](src/main/java/com/bt/xlt/homework0312/getValues/JiaBinCheckNum.java) -- 可参考
         - [2 xiaoma](src/main/java/com/bt/xlt/homework0312/getValues/XiaoMa.java) -- 规范、注意点
+        - [3 xueguiyang](src/main/java/com/bt/xlt/homework0312/getValues/XueGuiYangCheckNum.java)
     - [二：计算机类](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/computer)
     设计一个计算机类，要求如下：
         -- 属性：品 牌、颜色、cpu、内存容量、价格、工作状态
@@ -34,6 +35,7 @@
         -- 休眠时，显示工作状态为睡眠。
         - [1 jiabin](src/main/java/com/bt/xlt/homework0312/computer/JiaBinComputerTest.java)
         - [2 xiaoma](src/main/java/com/bt/xlt/homework0312/computer/XiaoMaComputerTest.java) -- 规范、注意点
+        - [3 xueguiyang](src/main/java/com/bt/xlt/homework0312/computer/XueGuiYangComputerTest.java) -- 变量第一个字母小写
 
 
 
