@@ -3,7 +3,7 @@ package com.bt.xlt.homework0312.getValues;
 /**
  * Created by lidongkun on 2016/3/14.
  * Reviewer: beigui
- * Review Date: 2016/3/14
+ * Review Date: 2016/3/15
  * Comments:总体不错
  *          改进点：
  *          需要考虑平均数和中位数是小数的情况

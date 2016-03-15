@@ -19,6 +19,26 @@
     - [17 zhaojie](src/main/java/com/bt/xlt/homework0305/ZhaoJieCheckTriangle.java) -- 不错
     - [18 guoleiming](src/main/java/com/bt/xlt/homework0305/GuoLeiMing.java)
 
+    注意点
+        - 代码规范
+            - 文件名使用姓名做文件名前缀，这样容易区分。比方MaXiaoYu_Homework_Operator
+                在自己写某一个java文件时，用功能起名。比方Triangle.java，不要用汉语拼音SanJiaoXing。
+            - 类开头有一段注释以/**开始，里面必须有作者信息和创建时间
+            - 大括号用法
+            - 赋值语句写法 int a = b; 中间空格不可少，这样别人在看的时候更清晰
+            - 判断语句写法 if (true) {}   if后面加一个空格
+            - 代码缩进是一个tab
+         - 编码格式
+            - 会有同学发过来后是乱码的情况，请确认下项目的编码格式为UTF-8
+         - 作业存放位置
+            - 地址在 [https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/)下面会有每期的作业文件夹
+            - 作业邮件发我邮箱
+         - TODO待办项
+            - 作业我都会看，有的会有TODO这个待办项。大家可以自行练习。
+         - Issue
+            - 有任何问题可以在群里说，更好的话可以记录在issue中。大家都能看到并且随时回顾。
+            - 有些课上没解决的，或者是比较重要的概念。我都记录在[issue](https://github.com/vagabond1-1983/javaDemo/issues)里面了。大家可以在下面评论，确认下是否理解了。
+
 - 3月12日作业
     - [一：求值](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/getValues)
     给定一个数组62,53,41,84,77,55，输出平均值、最大值、最小值、中位数
@@ -27,6 +47,9 @@
         - [3 xueguiyang](src/main/java/com/bt/xlt/homework0312/getValues/XueGuiYangCheckNum.java)
         - [4 weiyuxin](src/main/java/com/bt/xlt/homework0312/getValues/WeiYuXinGetValueTest.java) -- 变量声明问题
         - [5 lidongkun](src/main/java/com/bt/xlt/homework0312/getValues/LiDongKunArraysValues.java)
+        - [6 maxiaoyu](src/main/java/com/bt/xlt/homework0312/getValues/MaXiaoYuArrayFind.java) -- 代码规范好，简单化问题
+
+
     - [二：计算机类](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/computer)
     设计一个计算机类，要求如下：
         -- 属性：品 牌、颜色、cpu、内存容量、价格、工作状态
@@ -40,25 +63,7 @@
         - [3 xueguiyang](src/main/java/com/bt/xlt/homework0312/computer/XueGuiYangComputerTest.java) -- 变量第一个字母小写
         - [4 weiyuxin](src/main/java/com/bt/xlt/homework0312/computer/WeiYuXinComputerDemo.java) -- 对this的使用不错
         - [5 lidongkun](src/main/java/com/bt/xlt/homework0312/computer/LiDongKunComputerState.java) -- 带参数的构造函数
+        - [6 maxiaoyu](src/main/java/com/bt/xlt/homework0312/computer/MaXiaoYuClassDemo.java) -- 方法名第一个字母小写
 
 
 
-    注意点
-    - 代码规范
-        - 文件名使用姓名做文件名前缀，这样容易区分。比方MaXiaoYu_Homework_Operator
-            在自己写某一个java文件时，用功能起名。比方Triangle.java，不要用汉语拼音SanJiaoXing。
-        - 类开头有一段注释以/**开始，里面必须有作者信息和创建时间
-        - 大括号用法
-        - 赋值语句写法 int a = b; 中间空格不可少，这样别人在看的时候更清晰
-        - 判断语句写法 if (true) {}   if后面加一个空格
-        - 代码缩进是一个tab
-     - 编码格式
-        - 会有同学发过来后是乱码的情况，请确认下项目的编码格式为UTF-8
-     - 作业存放位置
-        - 地址在 [https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/)下面会有每期的作业文件夹
-        - 作业邮件发我邮箱
-     - TODO待办项
-        - 作业我都会看，有的会有TODO这个待办项。大家可以自行练习。
-     - Issue
-        - 有任何问题可以在群里说，更好的话可以记录在issue中。大家都能看到并且随时回顾。
-        - 有些课上没解决的，或者是比较重要的概念。我都记录在[issue](https://github.com/vagabond1-1983/javaDemo/issues)里面了。大家可以在下面评论，确认下是否理解了。

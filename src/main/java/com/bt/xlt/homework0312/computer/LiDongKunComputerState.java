@@ -3,7 +3,7 @@ package com.bt.xlt.homework0312.computer;
 /**
  * Created by lidongkun on 2016/3/14.
  * Reviewer: beigui
- * Review Date: 2016/3/13
+ * Review Date: 2016/3/15
  * Comments: 考虑下带参数的构造函数
  */
 public class LiDongKunComputerState {
