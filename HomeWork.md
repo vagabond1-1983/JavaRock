@@ -26,6 +26,7 @@
         - [2 xiaoma](src/main/java/com/bt/xlt/homework0312/getValues/XiaoMa.java) -- 规范、注意点
         - [3 xueguiyang](src/main/java/com/bt/xlt/homework0312/getValues/XueGuiYangCheckNum.java)
         - [4 weiyuxin](src/main/java/com/bt/xlt/homework0312/getValues/WeiYuXinGetValueTest.java) -- 变量声明问题
+        - [5 lidongkun](src/main/java/com/bt/xlt/homework0312/getValues/LiDongKunArraysValues.java)
     - [二：计算机类](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/computer)
     设计一个计算机类，要求如下：
         -- 属性：品 牌、颜色、cpu、内存容量、价格、工作状态
@@ -38,6 +39,7 @@
         - [2 xiaoma](src/main/java/com/bt/xlt/homework0312/computer/XiaoMaComputerTest.java) -- 规范、注意点
         - [3 xueguiyang](src/main/java/com/bt/xlt/homework0312/computer/XueGuiYangComputerTest.java) -- 变量第一个字母小写
         - [4 weiyuxin](src/main/java/com/bt/xlt/homework0312/computer/WeiYuXinComputerDemo.java) -- 对this的使用不错
+        - [5 lidongkun](src/main/java/com/bt/xlt/homework0312/computer/LiDongKunComputerState.java) -- 带参数的构造函数
 
 
 
