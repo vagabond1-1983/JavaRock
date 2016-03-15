@@ -64,6 +64,7 @@
     - 集合 vs 数组：数组的长度是固定的，集合的长度是可变的；数组用来存放基本类型的数据，集合用来存放对象的引用。
     - 常用的集合有List集合、Set集合、Map集合，其中List与Set实现了Collection接口
     - 继承关系参见[Collection.md](src/main/java/com/test/basic/chapter5/Collection.md)
+    - [SetDemo](src/main/java/com/test/basic/chapter5/SetDemo.java) --介绍HashSet的使用方式
     - [ListDemo](src/main/java/com/test/basic/chapter5/ListDemo.java) --介绍ArrayList的使用方式
     - [MapDemo](src/main/java/com/test/basic/chapter5/MapDemo.java) -- 介绍HashMap的使用方式
 - 第六章：异常
