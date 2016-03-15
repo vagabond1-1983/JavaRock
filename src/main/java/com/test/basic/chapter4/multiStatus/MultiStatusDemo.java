@@ -12,6 +12,8 @@ package com.test.basic.chapter4.multiStatus;
  *
  *  多态概念：“龙生九子，子子不同” 多态就是同一个处理手段可以用来处理多种不同的情况
  *  手段就是继承或者实现父类的方法，本例中就是showName方法, eat方法
+ *
+ *  需要注意构造函数，即运行顺序，问的比较多 *****
  */
 public class MultiStatusDemo {
     public static void main(String[] args) {
