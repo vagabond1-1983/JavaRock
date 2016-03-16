@@ -50,6 +50,7 @@
         - [6 maxYiaoyu](src/main/java/com/bt/xlt/homework0312/getValues/MaXiaoYuArrayFind.java) -- 代码规范好，简单化问题
         - [7 lichangxing](src/main/java/com/bt/xlt/homework0312/getValues/LiChangxingArraryCompare.java) -- 中位数的理解问题，也是对需求的理解
         - [8 liwen](src/main/java/com/bt/xlt/homework0312/getValues/LiWenArrayOperate.java)
+        - [9 fangweili](src/main/java/com/bt/xlt/homework0312/getValues/FangWeiLiArrayOperation.java) -- 给定数组为随机数组，好的测试方法
 
 
     - [二：计算机类](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/computer)
@@ -68,4 +69,5 @@
         - [6 maxiaoyu](src/main/java/com/bt/xlt/homework0312/computer/MaXiaoYuClassDemo.java) -- 方法名第一个字母小写
         - [7 lichangxing](src/main/java/com/bt/xlt/homework0312/computer/LichangxingComputerDemo.java)
         - [8 liwen](src/main/java/com/bt/xlt/homework0312/computer/LiWenComputerTest.java)
+        - [9 fangweili](src/main/java/com/bt/xlt/homework0312/computer/FangWeiLiComputerObject.java) -- 编程技巧之封装
 
