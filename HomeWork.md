@@ -71,3 +71,8 @@
         - [8 liwen](src/main/java/com/bt/xlt/homework0312/computer/LiWenComputerTest.java)
         - [9 fangweili](src/main/java/com/bt/xlt/homework0312/computer/FangWeiLiComputerObject.java) -- 编程技巧之封装
 
+    - 感悟：
+        - 代码规范，还是要注意，包括文件名、变量名、方法名、语义等简单规范。
+        - 理解题意最重要，既然是一个程序，做一次排序就好。不要自己想的太复杂，化繁为简是能力
+        - 在定义变量类型时，要推敲。好的类型会让你程序更轻松，坏的类型会让你抓狂。不要把变量都定义为String，它不是万能的。
+        - 作业涉及多个java文件，打包给我即可
