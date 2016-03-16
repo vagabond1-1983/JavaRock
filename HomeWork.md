@@ -47,7 +47,8 @@
         - [3 xueguiyang](src/main/java/com/bt/xlt/homework0312/getValues/XueGuiYangCheckNum.java)
         - [4 weiyuxin](src/main/java/com/bt/xlt/homework0312/getValues/WeiYuXinGetValueTest.java) -- 变量声明问题
         - [5 lidongkun](src/main/java/com/bt/xlt/homework0312/getValues/LiDongKunArraysValues.java)
-        - [6 maxiaoyu](src/main/java/com/bt/xlt/homework0312/getValues/MaXiaoYuArrayFind.java) -- 代码规范好，简单化问题
+        - [6 maxYiaoyu](src/main/java/com/bt/xlt/homework0312/getValues/MaXiaoYuArrayFind.java) -- 代码规范好，简单化问题
+        - [7 lichangxing](src/main/java/com/bt/xlt/homework0312/getValues/LiChangxingArraryCompare.java) -- 中位数的理解问题，也是对需求的理解
 
 
     - [二：计算机类](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/computer)
@@ -64,4 +65,5 @@
         - [4 weiyuxin](src/main/java/com/bt/xlt/homework0312/computer/WeiYuXinComputerDemo.java) -- 对this的使用不错
         - [5 lidongkun](src/main/java/com/bt/xlt/homework0312/computer/LiDongKunComputerState.java) -- 带参数的构造函数
         - [6 maxiaoyu](src/main/java/com/bt/xlt/homework0312/computer/MaXiaoYuClassDemo.java) -- 方法名第一个字母小写
+        - [7 lichangxing](src/main/java/com/bt/xlt/homework0312/computer/LichangxingComputerDemo.java)
 
