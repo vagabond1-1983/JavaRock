@@ -19,7 +19,7 @@
     - [17 zhaojie](src/main/java/com/bt/xlt/homework0305/ZhaoJieCheckTriangle.java) -- 不错
     - [18 guoleiming](src/main/java/com/bt/xlt/homework0305/GuoLeiMing.java)
 
-    注意点
+    - 注意点
         - 代码规范
             - 文件名使用姓名做文件名前缀，这样容易区分。比方MaXiaoYu_Homework_Operator
                 在自己写某一个java文件时，用功能起名。比方Triangle.java，不要用汉语拼音SanJiaoXing。
