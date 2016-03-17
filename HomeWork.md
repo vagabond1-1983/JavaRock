@@ -1,3 +1,44 @@
+- 3月12日作业
+    - [一：求值](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/getValues)
+    给定一个数组62,53,41,84,77,55，输出平均值、最大值、最小值、中位数
+        - [1 jiabin](src/main/java/com/bt/xlt/homework0312/getValues/JiaBinCheckNum.java) -- 可参考
+        - [2 xiaoma](src/main/java/com/bt/xlt/homework0312/getValues/XiaoMa.java) -- 规范、注意点
+        - [3 xueguiyang](src/main/java/com/bt/xlt/homework0312/getValues/XueGuiYangCheckNum.java)
+        - [4 weiyuxin](src/main/java/com/bt/xlt/homework0312/getValues/WeiYuXinGetValueTest.java) -- 变量声明问题
+        - [5 lidongkun](src/main/java/com/bt/xlt/homework0312/getValues/LiDongKunArraysValues.java)
+        - [6 maxYiaoyu](src/main/java/com/bt/xlt/homework0312/getValues/MaXiaoYuArrayFind.java) -- 代码规范好，简单化问题
+        - [7 lichangxing](src/main/java/com/bt/xlt/homework0312/getValues/LiChangxingArraryCompare.java) -- 中位数的理解问题，也是对需求的理解
+        - [8 liwen](src/main/java/com/bt/xlt/homework0312/getValues/LiWenArrayOperate.java)
+        - [9 fangweili](src/main/java/com/bt/xlt/homework0312/getValues/FangWeiLiArrayOperation.java) -- 给定数组为随机数组，好的测试方法
+        - [10 chencaiyu](src/main/java/com/bt/xlt/homework0312/getValues/ChenCaiYu_Evaluate.java)
+
+
+    - [二：计算机类](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/computer)
+    设计一个计算机类，要求如下：
+        -- 属性：品 牌、颜色、cpu、内存容量、价格、工作状态
+        -- 方法：打开、关闭、休眠
+        -- 创建一个计算机对象，调用打开、关闭方法。
+        -- 打开时显示品牌、颜色、cpu、内存容量、价格、工作状态为正常；
+        -- 关闭时，显示工作状态为停止；
+        -- 休眠时，显示工作状态为睡眠。
+        - [1 jiabin](src/main/java/com/bt/xlt/homework0312/computer/JiaBinComputerTest.java)
+        - [2 xiaoma](src/main/java/com/bt/xlt/homework0312/computer/XiaoMaComputerTest.java) -- 规范、注意点
+        - [3 xueguiyang](src/main/java/com/bt/xlt/homework0312/computer/XueGuiYangComputerTest.java) -- 变量第一个字母小写
+        - [4 weiyuxin](src/main/java/com/bt/xlt/homework0312/computer/WeiYuXinComputerDemo.java) -- 对this的使用不错
+        - [5 lidongkun](src/main/java/com/bt/xlt/homework0312/computer/LiDongKunComputerState.java) -- 带参数的构造函数
+        - [6 maxiaoyu](src/main/java/com/bt/xlt/homework0312/computer/MaXiaoYuClassDemo.java) -- 方法名第一个字母小写
+        - [7 lichangxing](src/main/java/com/bt/xlt/homework0312/computer/LichangxingComputerDemo.java)
+        - [8 liwen](src/main/java/com/bt/xlt/homework0312/computer/LiWenComputerTest.java)
+        - [9 fangweili](src/main/java/com/bt/xlt/homework0312/computer/FangWeiLiComputerObject.java) -- 编程技巧之封装
+        - [10 chencaiyu](src/main/java/com/bt/xlt/homework0312/computer/ChenCaiYuComputer.java) -- 让构造函数发挥更大作用
+
+    - 感悟：
+        - 代码规范，还是要注意，包括文件名、变量名、方法名、语义等简单规范。
+        - 理解题意最重要，既然是一个程序，做一次排序就好。不要自己想的太复杂，化繁为简是能力
+        - 在定义变量类型时，要推敲。好的类型会让你程序更轻松，坏的类型会让你抓狂。不要把变量都定义为String，它不是万能的。
+        - 作业涉及多个java文件，打包给我即可
+
+
 - [3月5日作业](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0305)
     请编写一个程序，接收用户输入的三个数，判断是否可以组成三角形（两条边相加大于第三条边）。
     - [1 mijuan](src/main/java/com/bt/xlt/homework0305/MiJuanHomeworkOperator.java) -- 代码规范
@@ -38,41 +79,3 @@
          - Issue
             - 有任何问题可以在群里说，更好的话可以记录在issue中。大家都能看到并且随时回顾。
             - 有些课上没解决的，或者是比较重要的概念。我都记录在[issue](https://github.com/vagabond1-1983/javaDemo/issues)里面了。大家可以在下面评论，确认下是否理解了。
-
-- 3月12日作业
-    - [一：求值](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/getValues)
-    给定一个数组62,53,41,84,77,55，输出平均值、最大值、最小值、中位数
-        - [1 jiabin](src/main/java/com/bt/xlt/homework0312/getValues/JiaBinCheckNum.java) -- 可参考
-        - [2 xiaoma](src/main/java/com/bt/xlt/homework0312/getValues/XiaoMa.java) -- 规范、注意点
-        - [3 xueguiyang](src/main/java/com/bt/xlt/homework0312/getValues/XueGuiYangCheckNum.java)
-        - [4 weiyuxin](src/main/java/com/bt/xlt/homework0312/getValues/WeiYuXinGetValueTest.java) -- 变量声明问题
-        - [5 lidongkun](src/main/java/com/bt/xlt/homework0312/getValues/LiDongKunArraysValues.java)
-        - [6 maxYiaoyu](src/main/java/com/bt/xlt/homework0312/getValues/MaXiaoYuArrayFind.java) -- 代码规范好，简单化问题
-        - [7 lichangxing](src/main/java/com/bt/xlt/homework0312/getValues/LiChangxingArraryCompare.java) -- 中位数的理解问题，也是对需求的理解
-        - [8 liwen](src/main/java/com/bt/xlt/homework0312/getValues/LiWenArrayOperate.java)
-        - [9 fangweili](src/main/java/com/bt/xlt/homework0312/getValues/FangWeiLiArrayOperation.java) -- 给定数组为随机数组，好的测试方法
-
-
-    - [二：计算机类](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/computer)
-    设计一个计算机类，要求如下：
-        -- 属性：品 牌、颜色、cpu、内存容量、价格、工作状态
-        -- 方法：打开、关闭、休眠
-        -- 创建一个计算机对象，调用打开、关闭方法。
-        -- 打开时显示品牌、颜色、cpu、内存容量、价格、工作状态为正常；
-        -- 关闭时，显示工作状态为停止；
-        -- 休眠时，显示工作状态为睡眠。
-        - [1 jiabin](src/main/java/com/bt/xlt/homework0312/computer/JiaBinComputerTest.java)
-        - [2 xiaoma](src/main/java/com/bt/xlt/homework0312/computer/XiaoMaComputerTest.java) -- 规范、注意点
-        - [3 xueguiyang](src/main/java/com/bt/xlt/homework0312/computer/XueGuiYangComputerTest.java) -- 变量第一个字母小写
-        - [4 weiyuxin](src/main/java/com/bt/xlt/homework0312/computer/WeiYuXinComputerDemo.java) -- 对this的使用不错
-        - [5 lidongkun](src/main/java/com/bt/xlt/homework0312/computer/LiDongKunComputerState.java) -- 带参数的构造函数
-        - [6 maxiaoyu](src/main/java/com/bt/xlt/homework0312/computer/MaXiaoYuClassDemo.java) -- 方法名第一个字母小写
-        - [7 lichangxing](src/main/java/com/bt/xlt/homework0312/computer/LichangxingComputerDemo.java)
-        - [8 liwen](src/main/java/com/bt/xlt/homework0312/computer/LiWenComputerTest.java)
-        - [9 fangweili](src/main/java/com/bt/xlt/homework0312/computer/FangWeiLiComputerObject.java) -- 编程技巧之封装
-
-    - 感悟：
-        - 代码规范，还是要注意，包括文件名、变量名、方法名、语义等简单规范。
-        - 理解题意最重要，既然是一个程序，做一次排序就好。不要自己想的太复杂，化繁为简是能力
-        - 在定义变量类型时，要推敲。好的类型会让你程序更轻松，坏的类型会让你抓狂。不要把变量都定义为String，它不是万能的。
-        - 作业涉及多个java文件，打包给我即可
