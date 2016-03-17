@@ -11,6 +11,7 @@
         - [8 liwen](src/main/java/com/bt/xlt/homework0312/getValues/LiWenArrayOperate.java)
         - [9 fangweili](src/main/java/com/bt/xlt/homework0312/getValues/FangWeiLiArrayOperation.java) -- 给定数组为随机数组，好的测试方法
         - [10 chencaiyu](src/main/java/com/bt/xlt/homework0312/getValues/ChenCaiYu_Evaluate.java)
+        - [11 qizhi](src/main/java/com/bt/xlt/homework0312/getValues/QiZhiArrayOperate.java) -- 能考虑到数据个数为1的特殊情况，增加了程序的健壮性
 
 
     - [二：计算机类](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/computer)
@@ -31,6 +32,7 @@
         - [8 liwen](src/main/java/com/bt/xlt/homework0312/computer/LiWenComputerTest.java)
         - [9 fangweili](src/main/java/com/bt/xlt/homework0312/computer/FangWeiLiComputerObject.java) -- 编程技巧之封装
         - [10 chencaiyu](src/main/java/com/bt/xlt/homework0312/computer/ChenCaiYuComputer.java) -- 让构造函数发挥更大作用
+        - [11 qizhi](src/main/java/com/bt/xlt/homework0312/computer/QiZhiComputerTest.java) -- super的作用，无参数构造函数需不需要写，StringBuffer的作用及使用场景
 
     - 感悟：
         - 代码规范，还是要注意，包括文件名、变量名、方法名、语义等简单规范。

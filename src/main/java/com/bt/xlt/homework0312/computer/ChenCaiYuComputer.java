@@ -7,7 +7,7 @@ package com.bt.xlt.homework0312.computer;
  打开时显示品牌、颜色、cpu、内存容量、价格、工作状态为正常；
  关闭时，显示工作状态为停止； -- 休眠时，显示工作状态为睡眠。
  * Reviewer: beigui
- * Review Date: 2016/3/16
+ * Review Date: 2016/3/18
  * Comments: 也可以通过构造函数赋初值，这样更省力。
  */
 public class ChenCaiYuComputer {
