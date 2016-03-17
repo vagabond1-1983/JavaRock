@@ -10,7 +10,8 @@ package com.bt.xlt.homework0312.computer;
  *  休眠：休眠时，显示工作状态为睡眠。
  * Reviewer: beigui
  * Review Date: 2016/3/18
- * Comments: super的作用，无参数构造函数需不需要写，StringBuffer的作用及使用场景
+ * Comments: 整体不错
+ *          super的作用，无参数构造函数需不需要写，StringBuffer的作用及使用场景
  */
 public class QiZhiComputer {
     /** 品牌 */
