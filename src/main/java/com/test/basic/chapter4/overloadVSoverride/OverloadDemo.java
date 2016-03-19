@@ -32,6 +32,9 @@ public class OverloadDemo {
         }
     }
 
+    //只有方法的返回类型不同不能算是重载
+//    private static int getMax(int firstNum, int lastNum) {return 1;}
+
     private static void getMax(float firstNum, float lastNum) {
         if (firstNum > lastNum) {
             System.out.println("较大的数是" + firstNum);
@@ -41,4 +44,7 @@ public class OverloadDemo {
             System.out.println("两个数相等");
         }
     }
+
+    //只有方法的修饰符不同不能算是重载
+//    public static void getMax(float firstNum, float lastNum) {}
 }

@@ -9,6 +9,9 @@ public class StringDemo {
         String str = new String("abc"); //初始化
         String str1 = "abc"; //初始化
         System.out.println("str == str1? 是否同一个对象：" + (str == str1));
+        System.out.println("纯字符串比较：" + ("abc" == "abc"));
+        System.out.println("对象str1和字符串比较：" + (str1 == "abc"));
+        System.out.println("对象str和字符串比较：" + (str == "abc"));
 
         System.out.println("字符串长度：" + str.length());
         System.out.println("字符c在字符串str中的位置(下标)：" + str.indexOf("c"));
@@ -26,7 +29,5 @@ public class StringDemo {
         for (String item : sArray) {
             System.out.println(item);
         }
-
-
     }
 }

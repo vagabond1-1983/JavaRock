@@ -8,9 +8,9 @@ import java.util.Arrays;
  * 注意：数组是在内存中是一片连续的空间，下标从0开始
  */
 public class ArrayDemo {
-    public static void main(String[] args ) {
+    public static void main(String[] args) {
         int[] arr = new int[]{1,2,9,5,3};
-        System.out.println(arr);
+        System.out.println(arr.toString());
         int sum = 0;
         for (int i = 0; i < arr.length; i++) {
             sum += arr[i];

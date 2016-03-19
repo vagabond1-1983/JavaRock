@@ -25,5 +25,14 @@ public class PropertyDemo {
         xiaoming.age = 21;
         xiaoming.gender = "男";
         System.out.println("姓名：" + xiaoming.name + " 年龄：" + xiaoming.age + " 性别：" + xiaoming.gender);
+
+        Person b;
+        b = xiaoming;
+        System.out.println(b.name);
+        b.age = 200;
+        System.out.println(xiaoming.age);
+
+        System.out.println(b);
+        System.out.println(xiaoming);
     }
 }
