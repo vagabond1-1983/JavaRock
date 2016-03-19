@@ -43,11 +43,11 @@
     - 例5：[ThisDemo](src/main/java/com/test/basic/chapter4/thisDemo/ThisDemo.java) -- this在类中的使用
     - 例6：[StaticDemo](src/main/java/com/test/basic/chapter4/staticDemo/StaticDemo.java) -- static静态变量、静态方法
     - 三大特性：封装、继承、多态
-    - 例7：[PackageIdentity](src/main/java/com/test/basic/chapter4/packageDemo/PackageIdentity.java) -- 封装，访问控制符(public,private)
     - 解释包：包就是package...，作用：区别相同名字的类，当类很多时更好的管理类，控制访问范围
         命令规范：com.company.app
+    - 例7：[PackageIdentity](src/main/java/com/test/basic/chapter4/packageDemo/PackageIdentity.java) -- 封装，访问控制符(public,private)
     - 继承 - 目的就是代码复用，更符合人的思维习惯
-    - 例8：[extendsDemo/PersonsMain](src/main/java/com/test/basic/chapter4/extendsDemo/PersonsMain.java) -- 小学生继承自人
+    - 例8：[extendsDemo/PersonsMain](src/main/java/com/test/basic/chapter4/extendsDemo/PersonsMain.java) -- 小学生继承自人，构造函数的继承及引用方式
     - 方法重载和重写
     - 例9：[overloadVSoverride/OverloadDemo](src/main/java/com/test/basic/chapter4/overloadVSoverride/OverloadDemo.java) -- 重载
     - 例10：[overloadVSoverride/OverrideDemo](src/main/java/com/test/basic/chapter4/overloadVSoverride/OverrideDemo.java) -- 重写
@@ -55,10 +55,10 @@
     - 例11：[multiStatus/MultiStatusDemo](src/main/java/com/test/basic/chapter4/multiStatus/MultiStatusDemo.java) -- 多态，处理问题的方式
     - 抽象类和接口
     - 例12：[abstractDemo/AbstractDemo](src/main/java/com/test/basic/chapter4/abstractDemo/AbstractDemo.java) -- 抽象类，关键字 abstract
-    - 接口概念：[https://github.com/vagabond1-1983/blog/issues/31](https://github.com/vagabond1-1983/blog/issues/31)
-    - 例13：[interfaceDemo/InterfaceDemo](src/main/java/com/test/basic/chapter4/interfaceDemo/InterfaceDemo.java) -- 接口
     - 作业：
         - 定义一个图形父类abstract Shape，包含求面积的方法getArea()，扩展子类：圆Circle、矩形Square、三角形Triangle，分别重写求面积方法。
+    - 接口概念：[https://github.com/vagabond1-1983/blog/issues/31](https://github.com/vagabond1-1983/blog/issues/31)
+    - 例13：[interfaceDemo/InterfaceDemo](src/main/java/com/test/basic/chapter4/interfaceDemo/InterfaceDemo.java) -- 接口
         - 定义一个图形接口IShape，包含画图方法draw()，要求圆Circle和三角形Triangle能实现draw()，打印出各自的draw。system.out
 - 第五章：集合
     - 集合 vs 数组：数组的长度是固定的，集合的长度是可变的；数组用来存放基本类型的数据，集合用来存放对象的引用。

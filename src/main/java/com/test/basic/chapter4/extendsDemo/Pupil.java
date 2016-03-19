@@ -7,9 +7,14 @@ package com.test.basic.chapter4.extendsDemo;
 public class Pupil extends Human{
     private String studentNo;
 
+//    public Pupil() {
+//        System.out.println("Pupil none con");
+//    }
+
     public Pupil(String studentNo, String name, char gender, int age) {
         super(name, gender, age);  //super用来调用父类构造方法，必须是第一句
         this.studentNo = studentNo;
+        System.out.println("Pupil....");
     }
 
     public void learn() {

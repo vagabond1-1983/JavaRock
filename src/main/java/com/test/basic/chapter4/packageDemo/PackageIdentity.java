@@ -19,4 +19,3 @@ public class PackageIdentity {
         //private -- 无法访问，需要封装成方法，才能访问。getter/setter
     }
 }
-

@@ -10,9 +10,14 @@ class Person {
     int age;
     Person() {}
 
+
     Person(String name, int age) {
         this.name = name;
         this.age = age;
+    }
+
+    Person(String name) {
+        this(name, 1);
     }
 
     String speak() {

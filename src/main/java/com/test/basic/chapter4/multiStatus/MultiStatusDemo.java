@@ -18,7 +18,9 @@ package com.test.basic.chapter4.multiStatus;
 public class MultiStatusDemo {
     public static void main(String[] args) {
         Master master = new Master();
-        master.feed(new Dog(), new Bone());
+        Dog dog = new Dog();
+        Bone bone = new Bone();
+        master.feed(dog, bone);
         System.out.println("**********************");
         master.feed(new Cat(), new Fish());
     }

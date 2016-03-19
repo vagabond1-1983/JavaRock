@@ -9,7 +9,12 @@ public class Human {
     private char gender;
     private int age;
 
+//    public Human() {
+//        System.out.println("Human none con");
+//    }
+
     public Human(String name, char gender, int age) {
+        System.out.println("Human...");
         this.name = name;
         this.gender = gender;
         this.age = age;

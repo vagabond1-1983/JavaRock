@@ -10,6 +10,7 @@ public class ThisDemo {
         Person p1 = new Person("小王", 30);
         System.out.println(p1.speak());
     }
+
 }
 
 
