@@ -14,6 +14,7 @@
         - [11 qizhi](src/main/java/com/bt/xlt/homework0312/getValues/QiZhiArrayOperate.java) -- 能考虑到数据个数为1的特殊情况，增加了程序的健壮性
         - [12 wangxiaojia](src/main/java/com/bt/xlt/homework0312/getValues/WangXiaoJiaGetValues.java)
         - [13 zhaojie](src/main/java/com/bt/xlt/homework0312/getValues/ZhaoJieArray.java)
+        - [14 fangxu](src/main/java/com/bt/xlt/homework0312/getValues/Fangxu_array.java)
 
 
     - [二：计算机类](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/computer)
@@ -37,6 +38,7 @@
         - [11 qizhi](src/main/java/com/bt/xlt/homework0312/computer/QiZhiComputerTest.java) -- super的作用，无参数构造函数需不需要写，StringBuffer的作用及使用场景
         - [12 wangxiaojia](src/main/java/com/bt/xlt/homework0312/computer/WangXiaoJiaComputer.java)
         - [13 zhaojie](src/main/java/com/bt/xlt/homework0312/computer/ZhaoJieComputer.java)
+        - [14 fangxu](src/main/java/com/bt/xlt/homework0312/computer/Fangxu_MyComputer.java) -- 能想到与用户互动，不错
 
     - 感悟：
         - 代码规范，还是要注意，包括文件名、变量名、方法名、语义等简单规范。
