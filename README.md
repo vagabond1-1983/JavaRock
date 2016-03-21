@@ -57,7 +57,8 @@
     - 例12：[abstractDemo/AbstractDemo](src/main/java/com/test/basic/chapter4/abstractDemo/AbstractDemo.java) -- 抽象类，关键字 abstract
     - 作业：
         - 定义一个图形父类abstract Shape，包含求面积的方法getArea()，扩展子类：圆Circle、矩形Square、三角形Triangle，分别重写求面积方法。
-        - 用户可以选择输入某一个多边形，输入数据后，求出这个多边形的面积
+        - 用户可以选择输入某一个多边形(圆、矩形、三角形)，输入数据后，求出这个多边形的面积
+        - 注意：因为不同的多边形求面积所用的参数不一样，所以当用户选择一个多边形时，用户需要输入的参数个数也不一样
     - 接口概念：[https://github.com/vagabond1-1983/blog/issues/31](https://github.com/vagabond1-1983/blog/issues/31)
     - 例13：[interfaceDemo/InterfaceDemo](src/main/java/com/test/basic/chapter4/interfaceDemo/InterfaceDemo.java) -- 接口
         - 定义一个图形接口IShape，包含画图方法draw()，要求圆Circle和三角形Triangle能实现draw()，打印出各自的draw。system.out
