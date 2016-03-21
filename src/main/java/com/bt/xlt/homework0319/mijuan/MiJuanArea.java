@@ -2,6 +2,8 @@ package com.bt.xlt.homework0319.mijuan;
 
 /**
  * Created by mijua on 3/19/2016.
+ * Reviewer: beigui
+ * Review Date: 2016/3/21
  */
 public class MiJuanArea {
     public static void main(String[] args) {

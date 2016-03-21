@@ -5,6 +5,7 @@
     - [1 mijuan](src/main/java/com/bt/xlt/homework0319/mijuan/MiJuanArea.java)
     - [2 xueguiyang](src/main/java/com/bt/xlt/homework0319/xueguiyang/XueguiyangTestShape.java) -- 构造函数的访问范围
     - [3 xiaoma](src/main/java/com/bt/xlt/homework0319/xiaoma/XiaomaTestDemo.java)
+    - [4 lichangxing](src/main/java/com/bt/xlt/homework0319/xiaoma/LiChangxingTestShapeDemo.java) -- 用构造函数初始化属性值，会比可变长度的参数要好
 
 
 - 3月12日作业

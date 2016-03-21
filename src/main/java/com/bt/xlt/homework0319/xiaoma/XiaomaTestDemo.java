@@ -1,5 +1,9 @@
 ﻿package com.bt.xlt.homework0319.xiaoma;
 
+/**
+ * Reviewer: beigui
+ * Review Date: 2016/3/21
+ */
 public class XiaomaTestDemo {
 
 	public static void main(String[] args) {
