@@ -7,6 +7,12 @@
     - [3 xiaoma](src/main/java/com/bt/xlt/homework0319/xiaoma/XiaomaTestDemo.java)
     - [4 lichangxing](src/main/java/com/bt/xlt/homework0319/xiaoma/LiChangxingTestShapeDemo.java) -- 用构造函数初始化属性值，会比可变长度的参数要好
 
+    - 感悟：
+        - 构造函数没有特殊情况，一般用public修饰
+        - 永远不要相信用户输入，用语言规定好。
+            比方说：不想别人访问的私有属性，一定要定义成私有的；
+                  参数是整数的，不要定义为String
+                  想要大于0的数或者对象访问，一定要判断之后再用
 
 - 3月12日作业
     - [一：求值](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/getValues)
