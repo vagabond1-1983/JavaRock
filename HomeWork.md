@@ -1,3 +1,12 @@
+- 3月19日作业
+    - [求多边形面积]
+    定义一个图形父类abstract Shape，包含求面积的方法getArea()，扩展子类：圆Circle、矩形Square、三角形Triangle，分别重写求面积方法。
+    用户可以选择输入某一个多边形，输入数据后，求出这个多边形的面积
+    - [1 mijuan](src/main/java/com/bt/xlt/homework0319/mijuan/MiJuanArea.java)
+    - [2 xueguiyang](src/main/java/com/bt/xlt/homework0319/xueguiyang/XueguiyangTestShape.java) -- 构造函数的访问范围
+    - [3 xiaoma](src/main/java/com/bt/xlt/homework0319/xiaoma/XiaomaTestDemo.java)
+
+
 - 3月12日作业
     - [一：求值](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/getValues)
     给定一个数组62,53,41,84,77,55，输出平均值、最大值、最小值、中位数
