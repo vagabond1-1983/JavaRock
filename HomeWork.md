@@ -5,7 +5,9 @@
     - [1 mijuan](src/main/java/com/bt/xlt/homework0319/mijuan/MiJuanArea.java)
     - [2 xueguiyang](src/main/java/com/bt/xlt/homework0319/xueguiyang/XueguiyangTestShape.java) -- 构造函数的访问范围
     - [3 xiaoma](src/main/java/com/bt/xlt/homework0319/xiaoma/XiaomaTestDemo.java)
-    - [4 lichangxing](src/main/java/com/bt/xlt/homework0319/xiaoma/LiChangxingTestShapeDemo.java) -- 用构造函数初始化属性值，会比可变长度的参数要好
+    - [4 lichangxing](src/main/java/com/bt/xlt/homework0319/lichangxing/LiChangxingTestShapeDemo.java) -- 用构造函数初始化属性值，会比可变长度的参数要好
+    - [5 jiabin](src/main/java/com/bt/xlt/homework0319/jiabin/JiaBinShapeTest.java) -- 契合题意，更好使用构造函数初始化属性值
+    - [6 lidongkun](src/main/java/com/bt/xlt/homework0319/lidongkun/ShapeArea.java) -- 不错
 
     - 感悟：
         - 构造函数没有特殊情况，一般用public修饰
