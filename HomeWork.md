@@ -9,6 +9,7 @@
     - [5 jiabin](src/main/java/com/bt/xlt/homework0319/jiabin/JiaBinShapeTest.java) -- 契合题意，更好使用构造函数初始化属性值
     - [6 lidongkun](src/main/java/com/bt/xlt/homework0319/lidongkun/ShapeArea.java) -- 不错
     - [7 weiyuxin](src/main/java/com/bt/xlt/homework0319/weiyuxin/WeiYuXinArea.java) -- 深入理解抽象类
+    - [8 chencaiyu](src/main/java/com/bt/xlt/homework0319/chencaiyu/ChenCaiYu_Area.java)
 
 
     - 感悟：
@@ -17,6 +18,7 @@
             比方说：不想别人访问的私有属性，一定要定义成私有的；
                   参数是整数的，不要定义为String
                   想要大于0的数或者对象访问，一定要判断之后再用
+        - 我实现一遍这个作业
 
 - 3月12日作业
     - [一：求值](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/getValues)
