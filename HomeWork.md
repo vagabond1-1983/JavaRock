@@ -8,6 +8,8 @@
     - [4 lichangxing](src/main/java/com/bt/xlt/homework0319/lichangxing/LiChangxingTestShapeDemo.java) -- 用构造函数初始化属性值，会比可变长度的参数要好
     - [5 jiabin](src/main/java/com/bt/xlt/homework0319/jiabin/JiaBinShapeTest.java) -- 契合题意，更好使用构造函数初始化属性值
     - [6 lidongkun](src/main/java/com/bt/xlt/homework0319/lidongkun/ShapeArea.java) -- 不错
+    - [7 weiyuxin](src/main/java/com/bt/xlt/homework0319/weiyuxin/WeiYuXinArea.java) -- 深入理解抽象类
+
 
     - 感悟：
         - 构造函数没有特殊情况，一般用public修饰
