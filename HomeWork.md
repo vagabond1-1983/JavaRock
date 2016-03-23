@@ -20,7 +20,8 @@
             比方说：不想别人访问的私有属性，一定要定义成私有的；
                   参数是整数的，不要定义为String
                   想要大于0的数或者对象访问，一定要判断之后再用
-        - 我实现一遍这个作业
+        - 大家写的越来越好了，从代码规范到程序结构到程序内容，都越来越好
+        - liwen的做范文讲解
 
 - 3月12日作业
     - [一：求值](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/getValues)
