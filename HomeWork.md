@@ -10,6 +10,8 @@
     - [6 lidongkun](src/main/java/com/bt/xlt/homework0319/lidongkun/ShapeArea.java) -- 不错
     - [7 weiyuxin](src/main/java/com/bt/xlt/homework0319/weiyuxin/WeiYuXinArea.java) -- 深入理解抽象类
     - [8 chencaiyu](src/main/java/com/bt/xlt/homework0319/chencaiyu/ChenCaiYu_Area.java)
+    - [9 maxiaoyu](src/main/java/com/bt/xlt/homework0319/maxiaoyu/ClassDemo.java) -- 不错
+    - [10 liwen](src/main/java/com/bt/xlt/homework0319/liwen/LiWenGetArea.java) -- 不错，题意理解正确，多态理解正确
 
 
     - 感悟：
