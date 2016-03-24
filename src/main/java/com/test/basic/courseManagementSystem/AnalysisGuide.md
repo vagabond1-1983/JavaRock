@@ -13,5 +13,12 @@
     - TechCourse: Teacher, Course
     - Score: Course, Student, score
 - 根据对象关系形成数据库表结构
+
 - 写程序
+    - 先写出骨架
+    - 一步步实现，实现一点就测试一点。保证这一点没问题
+    - 数据库中文插入乱码问题(http://my.oschina.net/zhenguoguan/blog/138704)
+    - 查询出数据封装成对象
+    - 构造函数
+    - toString
 - 检验

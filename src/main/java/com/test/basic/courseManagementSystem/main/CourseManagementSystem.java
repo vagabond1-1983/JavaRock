@@ -5,6 +5,7 @@ import com.test.basic.courseManagementSystem.service.DataService;
 import com.test.basic.courseManagementSystem.service.XMLHandlerService;
 import org.apache.commons.configuration.ConfigurationException;
 
+import java.sql.SQLException;
 import java.util.List;
 import java.util.Map;
 
@@ -29,12 +30,20 @@ public class CourseManagementSystem {
         List<TechCourse> techCourses = xmlHandlerService.getTechCourses(teachers, courses);
         List<Score> scores = xmlHandlerService.getScores(courses, students);
         //3. 对象持久化->DB
-        DataService dataService = new DataService("");
-        dataService.insert(teachers);
-//        dataService.insert(students);
-//        dataService.insert(courses);
-//        dataService.insert(techCourses);
-//        dataService.insert(scores);
-
+        DataService dataService = new DataService("jdbc:mysql://localhost:3306/course_management_system?useUnicode=true&characterEncoding=UTF-8");
+//        dataService.insertTeachers(teachers);
+//        dataService.insertStudents(students);
+//        dataService.insertCourses(courses);
+//        dataService.insertTechCourses(techCourses);
+//        dataService.insertScores(scores);
+        Score maxScore = null;
+        try {
+            for (int item : courses.keySet()) {
+                maxScore = dataService.getMaxScore4CourseId(item);
+                System.out.println(maxScore);
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
     }
 }

@@ -31,4 +31,13 @@ public class Score {
     public void setScore(float score) {
         this.score = score;
     }
+
+    @Override
+    public String toString() {
+        return "Score{" +
+                "course=" + course +
+                ", student=" + student +
+                ", score=" + score +
+                '}';
+    }
 }

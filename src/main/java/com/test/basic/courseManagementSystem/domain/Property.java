@@ -7,6 +7,14 @@ public abstract class Property {
     protected int id;
     protected String name;
 
+    public Property() {
+    }
+
+    public Property(int id, String name) {
+        this.id = id;
+        this.name = name;
+    }
+
     public int getId() {
         return id;
     }
@@ -21,5 +29,13 @@ public abstract class Property {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    @Override
+    public String toString() {
+        return this.getClass().getSimpleName() +"{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                '}';
     }
 }
