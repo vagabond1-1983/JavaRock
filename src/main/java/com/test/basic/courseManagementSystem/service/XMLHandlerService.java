@@ -1,9 +1,6 @@
 package com.test.basic.courseManagementSystem.service;
 
-import com.test.basic.courseManagementSystem.domain.Course;
-import com.test.basic.courseManagementSystem.domain.Student;
-import com.test.basic.courseManagementSystem.domain.Teacher;
-import com.test.basic.courseManagementSystem.domain.TechCourse;
+import com.test.basic.courseManagementSystem.domain.*;
 import org.apache.commons.configuration.ConfigurationException;
 import org.apache.commons.configuration.XMLConfiguration;
 
@@ -72,5 +69,20 @@ public class XMLHandlerService {
             techCourses.add(techCourse);
         }
         return techCourses;
+    }
+
+    public List<Score> getScores(Map<Integer, Course> courses, Map<Integer, Student> students) {
+        List<Score> scores = new ArrayList<Score>();
+        List cIds = xmlConf.getList("Scores.Score.CourseId");
+        List sIds = xmlConf.getList("Scores.Score.StudentId");
+        List scoreNumbers = xmlConf.getList("Scores.Score.Score");
+        for (int i = 0; i < cIds.size(); i++) {
+            Score score = new Score();
+            score.setCourse(courses.get(Integer.parseInt(cIds.get(i).toString())));
+            score.setStudent(students.get(Integer.parseInt(sIds.get(i).toString())));
+            score.setScore(Float.parseFloat(scoreNumbers.get(i).toString()));
+            scores.add(score);
+        }
+        return scores;
     }
 }

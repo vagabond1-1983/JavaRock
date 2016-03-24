@@ -1,9 +1,7 @@
 package com.test.basic.courseManagementSystem.main;
 
-import com.test.basic.courseManagementSystem.domain.Course;
-import com.test.basic.courseManagementSystem.domain.Student;
-import com.test.basic.courseManagementSystem.domain.Teacher;
-import com.test.basic.courseManagementSystem.domain.TechCourse;
+import com.test.basic.courseManagementSystem.domain.*;
+import com.test.basic.courseManagementSystem.service.DataService;
 import com.test.basic.courseManagementSystem.service.XMLHandlerService;
 import org.apache.commons.configuration.ConfigurationException;
 
@@ -29,10 +27,10 @@ public class CourseManagementSystem {
         Map<Integer, Course> courses = xmlHandlerService.getCourses();
         //2. 对象的业务处理，关联
         List<TechCourse> techCourses = xmlHandlerService.getTechCourses(teachers, courses);
-//        List<Score> scores = xmlHandlerService.getScores(courses, students);
-//        //3. 对象持久化->DB
-//        DataService dataService = new DataService();
-//        dataService.insert(teachers);
+        List<Score> scores = xmlHandlerService.getScores(courses, students);
+        //3. 对象持久化->DB
+        DataService dataService = new DataService("");
+        dataService.insert(teachers);
 //        dataService.insert(students);
 //        dataService.insert(courses);
 //        dataService.insert(techCourses);
