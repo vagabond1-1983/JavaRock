@@ -1,6 +1,6 @@
 模拟课程管理系统的关系连接部分：
 - 从数据文件CourseManagementSystem.xml中把数据读取出来并写入到数据库中形成关系链。
-- 显示每门课程的最好成绩和平均成绩
+- 显示每门课程的最好成绩
 
 分析部分：
 - 观察xml文件结构
@@ -12,7 +12,7 @@
     - Course: id, name
     - TechCourse: Teacher, Course
     - Score: Course, Student, score
-- 根据对象关系形成数据库表结构
+- 根据对象关系形成数据库表结构(sql/course_management_system.sql)
 
 - 写程序
     - 先写出骨架
