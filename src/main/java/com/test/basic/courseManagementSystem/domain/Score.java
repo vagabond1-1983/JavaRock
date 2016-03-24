@@ -1,0 +1,34 @@
+package com.test.basic.courseManagementSystem.domain;
+
+/**
+ * Created by beigui on 2016/3/24.
+ */
+public class Score {
+    private Course course;
+    private Student student;
+    private float score;
+
+    public Course getCourse() {
+        return course;
+    }
+
+    public void setCourse(Course course) {
+        this.course = course;
+    }
+
+    public Student getStudent() {
+        return student;
+    }
+
+    public void setStudent(Student student) {
+        this.student = student;
+    }
+
+    public float getScore() {
+        return score;
+    }
+
+    public void setScore(float score) {
+        this.score = score;
+    }
+}
