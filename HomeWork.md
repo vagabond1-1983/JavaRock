@@ -15,6 +15,7 @@
     - [11 qizhi](src/main/java/com/bt/xlt/homework0319/qizhi/TestShape.java) -- 不错，程序标准，题意理解正确，多态理解正确
     - [12 wangxiaojia](src/main/java/com/bt/xlt/homework0319/wangxiaojia/Wangxiaojia_Shape.java)
     - [13 jiyaping](src/main/java/com/bt/xlt/homework0319/jiyaping/JyapingTest .txt) -- 作业是检验学习成果的一个途径，知道大家都很忙，一定要坚持，你会发现坚持后的回报的
+    - [14 zhaojie](src/main/java/com/bt/xlt/homework0319/zhaojie/ZhaojieShapeArea.java)
 
 
     - 感悟：
@@ -24,7 +25,8 @@
                   参数是整数的，不要定义为String
                   想要大于0的数或者对象访问，一定要判断之后再用
         - 大家写的越来越好了，从代码规范到程序结构到程序内容，都越来越好
-        - liwen的做范文讲解
+        - liwen,qizhi的做范文讲解
+        - 作业态度问题、出勤率问题、随堂练习，【态度】只说一次
 
 - 3月12日作业
     - [一：求值](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0312/getValues)
