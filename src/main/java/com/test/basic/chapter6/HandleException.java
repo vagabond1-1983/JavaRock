@@ -17,5 +17,7 @@ public class HandleException {
             //使用getMessage()方法输出异常信息
             System.out.println("getMessage方法：" + e.getMessage());
         }
+//        File f = new File("sss");
+//        f.createNewFile();
     }
 }
