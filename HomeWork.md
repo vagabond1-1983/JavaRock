@@ -12,6 +12,9 @@
     - [8 chencaiyu](src/main/java/com/bt/xlt/homework0319/chencaiyu/ChenCaiYu_Area.java)
     - [9 maxiaoyu](src/main/java/com/bt/xlt/homework0319/maxiaoyu/ClassDemo.java) -- 不错
     - [10 liwen](src/main/java/com/bt/xlt/homework0319/liwen/LiWenGetArea.java) -- 不错，题意理解正确，多态理解正确
+    - [11 qizhi](src/main/java/com/bt/xlt/homework0319/qizhi/TestShape.java) -- 不错，程序标准，题意理解正确，多态理解正确
+    - [12 wangxiaojia](src/main/java/com/bt/xlt/homework0319/wangxiaojia/Wangxiaojia_Shape.java)
+    - [13 jiyaping](src/main/java/com/bt/xlt/homework0319/jiyaping/JyapingTest .txt) -- 作业是检验学习成果的一个途径，知道大家都很忙，一定要坚持，你会发现坚持后的回报的
 
 
     - 感悟：

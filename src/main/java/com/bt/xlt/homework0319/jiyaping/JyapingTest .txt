@@ -1,0 +1,19 @@
+﻿package com.shape;
+
+/**
+ * Created by Administrator on 2016/3/23.
+ */
+public class JyapingTest {
+    public static  void main (String[] args){
+        JyapingCircle jc = new JyapingCircle(1);//创建圆形对象并将半径设置为1；
+        System.out.println("圆形的名称是：" +jc.getName());
+        System.out.println("圆形的面积是：" +jc.getArea());
+        JyapingRectangle jg = new JyapingRectangle(1,1);//创建矩形对象并将长和宽设置为1g
+        System.out.println("矩形的名称是：" +jg.getName());
+        System.out.println("矩形的面积是：" +jg.getArea());
+
+
+
+
+    }
+}

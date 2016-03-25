@@ -1,0 +1,14 @@
+﻿package com.shape;
+
+/**
+ * Created by jiyaping on 2016/3/22.
+ */
+public abstract class JyapingShape {
+
+    public String getName(){
+
+        return this.getClass().getSimpleName();//获得图形的名称
+    }
+
+    public abstract double getArea();//获得图形的面积
+}

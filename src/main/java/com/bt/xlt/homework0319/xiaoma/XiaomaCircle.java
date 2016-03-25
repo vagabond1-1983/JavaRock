@@ -1,5 +1,4 @@
 ﻿package com.bt.xlt.homework0319.xiaoma;
-
 public class XiaomaCircle extends XiaomaShape{
 
 	private double Pai=3.14;

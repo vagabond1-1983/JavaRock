@@ -1,0 +1,19 @@
+﻿public class JyapingCircle extends JyapingShape{
+
+    //  @Override
+ //   public double getArea() {
+ //       return 0;
+ //   }
+
+    private double radius; //圆形的半径
+
+    public JyapingCircle(double radius) {
+
+        this.radius = radius;
+    }
+        public double getArea(){
+
+            return Math.PI *Math.pow(radius ,2);
+        }
+
+}
