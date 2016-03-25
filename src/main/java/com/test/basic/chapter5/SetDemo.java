@@ -13,6 +13,8 @@ public class SetDemo {
         set.add("test");
         set.add("test");
         set.add("tset1");
+        set.add("aaa");
+        //不保证迭代顺序，比方字母排序，数字排序
         for (String item : set) {
             System.out.println(item);
         }

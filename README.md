@@ -62,7 +62,7 @@
     - 接口概念：[https://github.com/vagabond1-1983/blog/issues/31](https://github.com/vagabond1-1983/blog/issues/31)
     - 例13：[interfaceDemo/InterfaceDemo](src/main/java/com/test/basic/chapter4/interfaceDemo/InterfaceDemo.java) -- 接口
         - 定义一个图形接口ShapeService，包含画图方法draw()，要求圆Circle和三角形Triangle能实现draw()，打印出各自的draw。system.out
-        getArea()是从属于一个接口好，还是抽象类更好
+        - 讨论：抽象类作业中的getArea()是从属于一个接口好，还是抽象类更好？
 - 第五章：集合
     - 集合 vs 数组：数组的长度是固定的，集合的长度是可变的；数组用来存放基本类型的数据，集合用来存放对象的引用。
     - 常用的集合有List集合、Set集合、Map集合，其中List与Set实现了Collection接口
