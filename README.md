@@ -69,7 +69,7 @@
     - 继承关系参见[Collection.md](src/main/java/com/test/basic/chapter5/Collection.md)
     - [SetDemo](src/main/java/com/test/basic/chapter5/SetDemo.java) --介绍HashSet的使用方式，更多内容在API文档
     - [ListDemo](src/main/java/com/test/basic/chapter5/ListDemo.java) --介绍ArrayList的使用方式，更多内容在API文档
-    - [MapDemo](src/main/java/com/test/basic/chapter5/MapDemo.java) -- 介绍HashMap的使用方式，更多内容在API文档
+    - [MapDemo](src/main/java/com/test/basic/chapter5/MapDemo2.java) -- 介绍HashMap的使用方式，更多内容在API文档
 - 第六章：异常
     - 异常概念说明：[Exception.md](src/main/java/com/test/basic/chapter6/Exception.md)
     - 例1：[WhatsException](src/main/java/com/test/basic/chapter6/WhatsException.java) -- 什么是异常

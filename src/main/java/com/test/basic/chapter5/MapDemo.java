@@ -2,6 +2,7 @@ package com.test.basic.chapter5;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Set;
 
 /**
  * Created by beigui on 2016/2/15.
@@ -14,12 +15,25 @@ public class MapDemo {
         map.put("1", "apple");
         map.put("2", "pear");
         map.put("3", "orange");
+        System.out.println("for cycle:");
         for (int i = 1; i < map.size() + 1; i++) {
             System.out.println("第" + i + "个元素是：" + map.get(i + ""));
         }
 
-        for (String item : map.keySet()) {
+        System.out.println("============keySet======================");
+        Set<String> set = map.keySet();
+        for (String item : set) {
             System.out.println("key=" + item + ", value=" + map.get(item));
+        }
+
+        System.out.println("===============values====================");
+        for (String value : map.values()) {
+            System.out.println("value=" + value);
+        }
+
+        System.out.println("===============entrySet=====================");
+        for (Map.Entry<String, String> item : map.entrySet()) {
+            System.out.println("key=" + item.getKey() + ", value=" + item.getValue());
         }
     }
 }
