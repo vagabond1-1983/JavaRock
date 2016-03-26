@@ -13,4 +13,8 @@ public class Computer {
         usb.start();
         usb.stop();
     }
+
+    public void useAb(AbstractUSB ausb) {
+        ausb.start();
+    }
 }
