@@ -5,7 +5,9 @@ import java.io.*;
 /**
  * Created by beigui on 2016/2/18.
  * 功能：文件内容的写入 -- FileOutputStream
+ *      写入“Java 学习”到文件 d:/test/work.txt中
  *      文件内容的读取 -- FileInputStream
+ *      读取d:/test/work.txt中的字符流
  */
 public class FileReadWriteStreamDemo {
     public static void main(String[] args) {

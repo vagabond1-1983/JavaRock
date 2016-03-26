@@ -78,14 +78,16 @@
     - 流的概念[Stream.md](src/main/java/com/test/basic/chapter7/Stream.md)
     - 例1：[FileDemo](src/main/java/com/test/basic/chapter7/FileDemo.java) -- 文件的基本操作
     - 例2：[FileReadWriteStreamDemo](src/main/java/com/test/basic/chapter7/FileReadWriteStreamDemo.java) -- 文件写入和读取
+    - 作业：将下面一段文字写入文件，(并从文件读出)，请用map转存即记录数据
+            first=你好
+            second=hello
+            third=早上好
+            fourth=晚上好
+      下载安装好mysql数据库 , client - MYSQL-Front
     - 例3：[FileReaderWriterDemo](src/main/java/com/test/basic/chapter7/FileReaderWriterDemo.java) -- 文件写入和读取
     - 例4：[BufferedStreamDemo](src/main/java/com/test/basic/chapter7/BufferedStreamDemo.java) -- 文件写入和读取 + 缓冲区
     - 例5：[BufferedReaderWriterDemo](src/main/java/com/test/basic/chapter7/BufferedReaderWriterDemo.java) -- 文件写入和读取 + 缓冲区
-    - 作业：将下面一段文字写入文件，并从文件读出，请用map转存即记录数据
-        1=你好
-        2=hello
-        3=早上好
-        4=晚上好
+
 - 第八章：JDBC连接数据库
     - JDBC制定了统一的访问各类关系数据库的标准接口，为各个数据库厂商提供了标准接口的实现。
     - 例1：[MySQLQueryDemo](src/main/java/com/test/basic/chapter8/MySQLQueryDemo.java) -- 查询数据
