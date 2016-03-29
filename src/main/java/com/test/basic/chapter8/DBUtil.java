@@ -79,7 +79,8 @@ public class DBUtil {
         }
     }
 
-    //插入或者是更新。params是一个不定长度的字符串数组，相当于String[] params
+    //插入或者是更新。插入或者更新都是executeUpdate()，同时设置参数值的方法也一样
+    // params是一个不定长度的字符串数组，相当于String[] params
     public static void insertOrUpdate(String sql, String... params) {
         if (null == conn) {
             return;
