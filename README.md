@@ -94,6 +94,8 @@
     - 例2：[MySQLInsertDemo](src/main/java/com/test/basic/chapter8/MySQLInsertDemo.java) -- 插入数据
     - 例3：[MySQLUpdateDemo](src/main/java/com/test/basic/chapter8/MySQLUpdateDemo.java) -- 更新数据
     - 例4：[DBDemo](src/main/java/com/test/basic/chapter8/DBDemo.java) -- 利用工具类，简化JDBC写法
+
+- 停一停，巩固下：HelloWorld, Array, String, 多态, ArrayList, HashMap, BufferedFileReader, MySQLQuery
 - [模拟项目中一个功能模块](Practice.md)
 
 - 附：
