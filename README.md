@@ -95,7 +95,13 @@
     - 例3：[MySQLUpdateDemo](src/main/java/com/test/basic/chapter8/MySQLUpdateDemo.java) -- 更新数据
     - 例4：[DBDemo](src/main/java/com/test/basic/chapter8/DBDemo.java) -- 利用工具类，简化JDBC写法
 
-- 停一停，巩固下：HelloWorld, Array, String, 多态, ArrayList, HashMap, BufferedFileReader, MySQLQuery
+- 停一停，巩固下：
+    - HelloWorld
+    - Array(String数组初始化+遍历)：aa,bb,cc,dd
+    - String(把字符串"I like java"反转，输出结果为"java like I")
+    - 多态(主人喂小狗吃骨头)
+    - ArrayList, HashMap(统计词频“a dd www kkk a dd www ccc a”，统计出每个词出现次数)
+    - MySQLQuery(查询users表所有数据并打印)
 - [模拟项目中一个功能模块](Practice.md)
 
 - 附：
