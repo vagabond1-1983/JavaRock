@@ -1,3 +1,23 @@
+- 3月26日作业
+    - [文本写入文件](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0326)
+    将下面一段文字写入文件，(并从文件读出)，请用map转存即记录数据 first=你好 second=hello third=早上好 fourth=晚上好
+    - [1 mijuan](src/main/java/com/bt/xlt/homework0326/MiJuanFileReaderStreamHomework.java) - 能够用BufferWriter写入字。改进点：流在finally里面关闭
+    - [2 maxiaoyu](src/main/java/com/bt/xlt/homework0326/MaXiaoYuFileReadByMap.java) - 能多考虑到输入的map顺序，不错
+    - [3 liwen](src/main/java/com/bt/xlt/homework0326/LiWenFileRWDemo.java) - 不错，如果能再多想想方法封装就更好了
+    - [4 jiabin](src/main/java/com/bt/xlt/homework0326/JiaBinReadWriteTest.java) - 不错，善用TreeMap保持输入顺序
+    - [5 lidongkun](src/main/java/com/bt/xlt/homework0326/FileIO.java) - 流的关闭需要在finally里面
+    - [6 weiyuxin](src/main/java/com/bt/xlt/homework0326/WeiYuXinInputAndOutputFile.java)
+    - [7 xiaoma](src/main/java/com/bt/xlt/homework0326/XiaoMaProject.java) -- 不少同学提前实现了Buffer Reader, Buffer Writer
+    - [8 lichangxing](src/main/java/com/bt/xlt/homework0326/LiChangxingWriteFile.java) -- 代码规范呢？
+    - [9 wangxiaojia](src/main/java/com/bt/xlt/homework0326/WangXiaoJia_FileReaderWriter.java)
+    - [10 xueguiyang](src/main/java/com/bt/xlt/homework0326/xueguiyang_MapToFile.java)
+    - [11 qizhi](src/main/java/com/bt/xlt/homework0326/FileOperateTest.java) -- 能够用基本的面向对象的思想考虑问题。文件操作类提供了写数据和读数据的方法
+    - [12 chencaiyu](src/main/java/com/bt/xlt/homework0326/ChenCaiYu_File.java)
+
+
+
+
+
 - 3月19日作业
     - [求多边形面积](https://github.com/vagabond1-1983/javaDemo/tree/dev/src/main/java/com/bt/xlt/homework0319)
     定义一个图形父类abstract Shape，包含求面积的方法getArea()，扩展子类：圆Circle、矩形Square、三角形Triangle，分别重写求面积方法。
@@ -16,6 +36,7 @@
     - [12 wangxiaojia](src/main/java/com/bt/xlt/homework0319/wangxiaojia/Wangxiaojia_Shape.java)
     - [13 jiyaping](src/main/java/com/bt/xlt/homework0319/jiyaping/JyapingTest .txt) -- 作业是检验学习成果的一个途径，知道大家都很忙，一定要坚持，你会发现坚持后的回报的
     - [14 zhaojie](src/main/java/com/bt/xlt/homework0319/zhaojie/ZhaojieShapeArea.java)
+    - [15 fangxu](src/main/java/com/bt/xlt/homework0319/fangxu/Fangxu_Calculate_Area.java)
 
 
     - 感悟：
