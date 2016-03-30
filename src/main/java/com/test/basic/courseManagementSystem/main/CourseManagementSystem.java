@@ -3,6 +3,7 @@ package com.test.basic.courseManagementSystem.main;
 import com.test.basic.courseManagementSystem.domain.*;
 import com.test.basic.courseManagementSystem.service.DataService;
 import com.test.basic.courseManagementSystem.service.XMLHandlerService;
+import com.test.basic.courseManagementSystem.util.DBUtil;
 import org.apache.commons.configuration.ConfigurationException;
 
 import java.sql.SQLException;
@@ -44,6 +45,8 @@ public class CourseManagementSystem {
             }
         } catch (SQLException e) {
             e.printStackTrace();
+        } finally {
+            DBUtil.close();
         }
     }
 }
