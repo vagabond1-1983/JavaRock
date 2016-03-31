@@ -102,10 +102,10 @@
     - 多态(主人喂小狗吃骨头)
     - ArrayList, HashMap(统计词频“a dd www kkk a dd www ccc a”，统计出每个词出现次数)
     - MySQLQuery(查询users表所有数据并打印)
-- [模拟项目中一个功能模块](Practice.md)
+- [模拟课程管理系统项目中一个功能模块-录入学生成绩](Practice.md)
 
 - 附：
     - Intellij IDEA详细使用说明参见另一个工程[intellij-idea-tutorial](https://github.com/vagabond1-1983/IntelliJ-IDEA-Tutorial)
     - [代码规范](https://github.com/vagabond1-1983/javaDemo/issues/15)
-    - 如何把项目导入到本地工程中
+    - 如何把项目导入到本地工程中 - download zip -> unzip -> open project folder
     - [Java API在线文档](http://tool.oschina.net/apidocs/apidoc?api=jdk-zh)，学会查文档
