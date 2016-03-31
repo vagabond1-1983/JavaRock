@@ -13,6 +13,8 @@
     - [10 xueguiyang](src/main/java/com/bt/xlt/homework0326/xueguiyang_MapToFile.java)
     - [11 qizhi](src/main/java/com/bt/xlt/homework0326/FileOperateTest.java) -- 能够用基本的面向对象的思想考虑问题。文件操作类提供了写数据和读数据的方法
     - [12 chencaiyu](src/main/java/com/bt/xlt/homework0326/ChenCaiYu_File.java)
+    - [13 fangweili](src/main/java/com/bt/xlt/homework0326/FangweiliFileStream.java)
+    - [14 jiyaping](src/main/java/com/bt/xlt/homework0326/Jiyapingmap.java)
 
 
 
