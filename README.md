@@ -92,6 +92,7 @@
 
 - 第八章：JDBC连接数据库
     - JDBC制定了统一的访问各类关系数据库的标准接口，为各个数据库厂商提供了标准接口的实现。
+    - [JDBC 概念和用法简介](src/main/java/com/test/basic/chapter8/JDBC.md)
     - 例1：[MySQLQueryDemo](src/main/java/com/test/basic/chapter8/MySQLQueryDemo.java) -- 查询数据
     - 例2：[MySQLInsertDemo](src/main/java/com/test/basic/chapter8/MySQLInsertDemo.java) -- 插入数据
     - 例3：[MySQLUpdateDemo](src/main/java/com/test/basic/chapter8/MySQLUpdateDemo.java) -- 更新数据
