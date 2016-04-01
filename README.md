@@ -87,6 +87,8 @@
     - 例3：[FileReaderWriterDemo](src/main/java/com/test/basic/chapter7/FileReaderWriterDemo.java) -- 文件写入和读取
     - 例4：[BufferedStreamDemo](src/main/java/com/test/basic/chapter7/BufferedStreamDemo.java) -- 文件写入和读取 + 缓冲区
     - 例5：[BufferedReaderWriterDemo](src/main/java/com/test/basic/chapter7/BufferedReaderWriterDemo.java) -- 文件写入和读取 + 缓冲区
+    - [字符流和字节流的区别、使用场景](https://github.com/vagabond1-1983/javaDemo/issues/24) -- 转自别人的文章。因为io提供的类很多，在什么场景用哪个合适，需要经验的积累。
+        咱们主要关注于文件的读写，用字节流会更方便些。
 
 - 第八章：JDBC连接数据库
     - JDBC制定了统一的访问各类关系数据库的标准接口，为各个数据库厂商提供了标准接口的实现。
