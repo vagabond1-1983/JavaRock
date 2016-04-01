@@ -10,7 +10,7 @@ import java.io.IOException;
  * 功能：文件内容的写入 -- FileOutputStream
  *      写入“Java 学习”到文件 d:/test/work.txt中
  */
-public class FileReadStreamDemo {
+public class FileWriteStreamDemo {
     public static void main(String[] args) {
         File file = new File("d:/test/", "work.txt");
         if (!file.exists()) {
