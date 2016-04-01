@@ -100,11 +100,19 @@
 
 - 停一停，巩固下：
     - HelloWorld
+        控制台打印Hello World!
     - Array(String数组初始化+遍历)：aa,bb,cc,dd
+        把aa,bb,cc,dd写入到一个String数组中，并打印
     - String(把字符串"I like java"反转，输出结果为"java like I")
     - 多态(主人喂小狗吃骨头)
+        主人Master，feed(Animal a, Food f) {a.eat(); f.showName();}
     - ArrayList, HashMap(统计词频“a dd www kkk a dd www ccc a”，统计出每个词出现次数)
+        这样一串话： a dd www kkk a dd www ccc a， 统计每个词的次数
     - MySQLQuery(查询users表所有数据并打印)
+        查询表中数据打印
+
+
+
 - [模拟课程管理系统项目中一个功能模块-录入学生成绩](Practice.md)
 
 - 附：
