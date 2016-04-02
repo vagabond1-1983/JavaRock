@@ -1,4 +1,5 @@
 模拟课程管理系统的关系连接部分：
+要求说简单点，就是成绩的录入到数据库的工作，用一个功能模块实现
 - 从数据文件CourseManagementSystem.xml中把数据读取出来并写入到数据库中形成关系链。
 - 显示每门课程的最好成绩
 
@@ -13,7 +14,6 @@
     - TechCourse: Teacher, Course
     - Score: Course, Student, score
 - 根据对象关系形成数据库表结构(sql/course_management_system.sql)
-
 - 写程序
     - 先写出骨架
     - 一步步实现，实现一点就测试一点。保证这一点没问题

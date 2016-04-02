@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!--课程管理系统的部分信息-->
 <CourseSystem>
+    <!--教师信息部分-->
     <Teachers>
         <Teacher>
             <id>01</id>
@@ -11,6 +13,7 @@
         </Teacher>
     </Teachers>
 
+    <!--学生信息部分-->
     <Students>
         <Student>
             <id>001</id>
@@ -26,6 +29,7 @@
         </Student>
     </Students>
 
+    <!--课程信息部分-->
     <Courses>
         <Course>
             <id>01</id>
@@ -37,6 +41,7 @@
         </Course>
     </Courses>
 
+    <!--教师与课程的关系，即教师教哪门课-->
     <TechCourses>
         <TechCourse>
             <TeacherId>01</TeacherId>
@@ -48,7 +53,9 @@
         </TechCourse>
     </TechCourses>
 
+    <!--学生某次考试成绩信息-->
     <Scores>
+        <!--学生学习课程所得分数-->
         <Score>
             <CourseId>01</CourseId>
             <StudentId>001</StudentId>
