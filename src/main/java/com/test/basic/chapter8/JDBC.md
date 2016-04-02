@@ -36,7 +36,7 @@ JDBC涉及到网络的连接，事务的执行。
     例如加载MySQL为： Class.forName(“com.mysql.jdbc.Driver”)
 3、创建数据连接对象：通过DriverManager类创建数据库连接对象Connection。
     DriverManager类作用于Java程序和JDBC驱动程序之间，用于检查所加载的驱动程序是否可以建立连接，然后通过它的getConnection方法，根据数据库的URL、用户名和密码，创建一个JDBC Connection 对象。
-    如：Connection connection =  DriverManager.geiConnection(“连接数据库的URL", "用户名", "密码”)。
+    如：Connection connection =  DriverManager.getConnection(“连接数据库的URL", "用户名", "密码”)。
     其中，URL=协议名+IP地址(域名)+端口+数据库名称；用户名和密码是指登录数据库时所使用的用户名和密码。
     具体示例创建MySQL的数据库连接代码如下：
     DriverManager 检查加载的JDBC驱动是否符合规范。

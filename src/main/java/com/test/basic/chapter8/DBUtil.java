@@ -97,14 +97,6 @@ public class DBUtil {
             e.printStackTrace();
         } finally {
             //别忘了关闭
-            if (null != rs) {
-                try {
-                    rs.close();
-                } catch (SQLException e) {
-                    e.printStackTrace();
-                }
-            }
-
             if (null != preStatement) {
                 try {
                     preStatement.close();

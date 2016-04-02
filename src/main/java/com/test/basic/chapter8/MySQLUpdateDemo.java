@@ -19,7 +19,7 @@ public class MySQLUpdateDemo {
         Connection conn = DriverManager.getConnection(url, user, password);
         //创建一个Statement对象
         PreparedStatement statement = conn.prepareStatement(sql);
-        statement.setString(1, "password1");
+        statement.setString(1, "password111");
         statement.setString(2, "user1");
         //执行sql语句
         System.out.println(statement.executeUpdate());
