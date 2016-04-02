@@ -14,7 +14,7 @@ public class DBUtil {
     //获取连接。饿汉式 推荐 。懒汉式就是在构造时连接上，然后方法返回connection。
     public static Connection getConnection(String driver, String url, String username, String password) {
         try {
-            if (null == conn && conn.isClosed()) {
+            if (null == conn || conn.isClosed()) {
                 Class.forName(driver);
                 conn = DriverManager.getConnection(url, username, password);
             }

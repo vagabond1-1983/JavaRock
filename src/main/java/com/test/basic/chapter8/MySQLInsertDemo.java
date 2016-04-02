@@ -8,7 +8,7 @@ import java.sql.*;
 public class MySQLInsertDemo {
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         Class.forName("com.mysql.jdbc.Driver");  //加载数据库驱动
-        String url = "jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=UTF-8";
+        String url = "jdbc:mysql://127.0.0.1:3306/test?useUnicode=true&characterEncoding=UTF-8";
         String user = "root";
         String password = "password";
         String sql = "insert into users(username, password) VALUES(?, ?)";

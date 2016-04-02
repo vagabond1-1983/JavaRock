@@ -7,7 +7,7 @@ package com.test.basic.chapter8;
 public class DBDemo {
     public static void main(String[] args) {
         String driver = "com.mysql.jdbc.Driver";
-        String url = "jdbc:mysql://localhost:3306/test";
+        String url = "jdbc:mysql://127.0.0.1:3306/test";
         String username = "root";
         String password = "password";
 

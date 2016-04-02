@@ -8,7 +8,7 @@ import java.sql.*;
 public class MySQLQueryDemo {
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         Class.forName("com.mysql.jdbc.Driver");  //加载数据库驱动
-        String url = "jdbc:mysql://localhost:3306/test";
+        String url = "jdbc:mysql://127.0.0.1:3306/test";
         String user = "root";
         String password = "password";
         String sql = "select * from users";
