@@ -17,7 +17,7 @@
 - 写程序
     - 先写出骨架
     - 一步步实现，实现一点就测试一点。保证这一点没问题
-    - 数据库中文插入乱码问题(http://my.oschina.net/zhenguoguan/blog/138704)
+    - 数据库中文插入乱码问题(https://github.com/vagabond1-1983/javaDemo/issues/25)
     - 查询出数据封装成对象
     - 构造函数
     - toString
