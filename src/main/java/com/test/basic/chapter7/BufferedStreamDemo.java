@@ -7,6 +7,7 @@ import java.io.*;
  * 功能：文件内容的写入 -- BufferedOutputStream
  *      文件内容的读取 -- BufferedInputStream
  * 缓冲区，把流先写入/读取到缓冲区内存，再从缓冲区写入/读取。
+ * 本质上是底层InputStream/OutputStream的包装类，最终是通过底层写入。加上了缓冲区，对大文件的读取写入效果会明显些。
  */
 public class BufferedStreamDemo {
     public static void main(String[] args) {
