@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--商品系统的部分信息-->
+<WareSystem>
+    <!--商品信息部分-->
+    <Wares>
+        <Ware>
+            <id>01</id>
+            <name>水杯</name>
+        </Ware>
+        <Ware>
+            <id>02</id>
+            <name>水壶</name>
+        </Ware>
+    </Wares>
+
+    <!--商品价格信息部分-->
+    <Prices>
+        <Price>
+            <wareId>01</wareId>
+            <price>12.0</price>
+        </Price>
+        <Price>
+            <wareId>02</wareId>
+            <name>55.5</name>
+        </Price>
+    </Prices>
+
+    <!--商品卖出信息部分-->
+    <Sell>
+        <SellCount>
+            <wareId>01</wareId>
+            <count>5</count>
+        </SellCount>
+        <SellCount>
+            <wareId>02</wareId>
+            <count>50</count>
+        </SellCount>
+    </Sell>
+</WareSystem>

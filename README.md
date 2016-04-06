@@ -114,6 +114,7 @@
 
 
 - [模拟课程管理系统项目中一个功能模块-录入学生成绩](Practice.md)
+- 作业：对[数据](src/main/resources/WarePrice.xml)录入到数据库后，查询出各商品卖出的总金额
 
 - 附：
     - Intellij IDEA详细使用说明参见另一个工程[intellij-idea-tutorial](https://github.com/vagabond1-1983/IntelliJ-IDEA-Tutorial)
