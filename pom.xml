@@ -16,6 +16,8 @@
             <version>5.1.10</version>
         </dependency>
 
+        <!--http://stackoverflow.com/questions/28692844/why-is-maven-not-resolving-all-dependencies-for-commons-configuration-->
+        <!--commons-collections is optional to attach-->
         <dependency>
             <groupId>commons-collections</groupId>
             <artifactId>commons-collections</artifactId>
