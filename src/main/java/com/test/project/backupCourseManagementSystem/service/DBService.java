@@ -1,6 +1,6 @@
 package com.test.project.backupCourseManagementSystem.service;
 
-import com.test.basic.courseManagementSystem.util.DBUtil;
+import com.test.project.courseManagementSystem.util.DBUtil;
 import com.test.project.backupCourseManagementSystem.domain.*;
 
 import java.sql.Connection;

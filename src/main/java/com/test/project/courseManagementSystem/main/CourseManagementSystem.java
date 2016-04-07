@@ -1,9 +1,9 @@
-package com.test.basic.courseManagementSystem.main;
+package com.test.project.courseManagementSystem.main;
 
-import com.test.basic.courseManagementSystem.domain.*;
-import com.test.basic.courseManagementSystem.service.DataService;
-import com.test.basic.courseManagementSystem.service.XMLHandlerService;
-import com.test.basic.courseManagementSystem.util.DBUtil;
+import com.test.project.courseManagementSystem.domain.*;
+import com.test.project.courseManagementSystem.service.DataService;
+import com.test.project.courseManagementSystem.service.XMLHandlerService;
+import com.test.project.courseManagementSystem.util.DBUtil;
 import org.apache.commons.configuration.ConfigurationException;
 
 import java.sql.SQLException;

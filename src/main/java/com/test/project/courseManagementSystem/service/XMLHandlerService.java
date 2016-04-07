@@ -1,6 +1,6 @@
-package com.test.basic.courseManagementSystem.service;
+package com.test.project.courseManagementSystem.service;
 
-import com.test.basic.courseManagementSystem.domain.*;
+import com.test.project.courseManagementSystem.domain.*;
 import org.apache.commons.configuration.ConfigurationException;
 import org.apache.commons.configuration.XMLConfiguration;
 

@@ -1,7 +1,7 @@
-package com.test.basic.courseManagementSystem.service;
+package com.test.project.courseManagementSystem.service;
 
-import com.test.basic.courseManagementSystem.util.DBUtil;
-import com.test.basic.courseManagementSystem.domain.*;
+import com.test.project.courseManagementSystem.util.DBUtil;
+import com.test.project.courseManagementSystem.domain.*;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

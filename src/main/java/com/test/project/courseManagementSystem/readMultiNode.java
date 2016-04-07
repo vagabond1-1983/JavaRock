@@ -1,4 +1,4 @@
-package com.test.basic.courseManagementSystem;
+package com.test.project.courseManagementSystem;
 
 
 import org.apache.commons.configuration.ConfigurationException;

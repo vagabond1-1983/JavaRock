@@ -1,4 +1,4 @@
-package com.test.basic.courseManagementSystem.util;
+package com.test.project.courseManagementSystem.util;
 
 import java.sql.*;
 
