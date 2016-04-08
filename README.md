@@ -108,6 +108,8 @@
         主人Master，feed(Animal a, Food f) {a.eat(); f.showName();}
     - HashMap(统计词频“I work at A company. Apply java in test area. I thought test work very good.”，统计出每个词出现次数)
         这样一串话：I work at A company. Apply java in test area. I thought test work very good. 统计每个词出现的次数
+    - BufferFileReader
+        读出文件 d:\test\work.txt 中的内容
     - MySQLQuery(查询users表所有数据并打印)
         查询表中数据封装成User对象后打印
 
