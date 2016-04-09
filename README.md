@@ -101,6 +101,7 @@
 - 停一停，巩固下：
     - HelloWorld
         控制台打印Hello World!
+        Hello.java -> javac Hello.class 编译 -> java Hello 解释
     - Array(String数组初始化+遍历)：aa,bb,cc,dd
         把aa,bb,cc,dd写入到一个String数组中，并打印
     - String(把字符串"I like java"反转，输出结果为"java like I")
