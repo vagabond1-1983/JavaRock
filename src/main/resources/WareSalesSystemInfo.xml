@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--商品系统的部分信息-->
+<WareSystem>
+    <!--用户信息部分-->
+    <Users>
+        <User>
+            <id>1001</id>
+            <name>小王</name>
+            <sex>男</sex>
+        </User>
+        <User>
+            <id>1002</id>
+            <name>小张</name>
+            <sex>男</sex>
+        </User>
+    </Users>
+    <!--商品信息部分-->
+    <Wares>
+        <Ware>
+            <id>01</id>
+            <name>水杯</name>
+            <price>12.0</price>
+        </Ware>
+        <Ware>
+            <id>02</id>
+            <name>水壶</name>
+            <price>55.5</price>
+        </Ware>
+    </Wares>
+
+    <!--商品卖出信息部分-->
+    <Sell>
+        <SellCount>
+            <userId>1001</userId>
+            <wareId>01</wareId>
+            <count>5</count>
+        </SellCount>
+        <SellCount>
+            <userId>1001</userId>
+            <wareId>02</wareId>
+            <count>50</count>
+        </SellCount>
+        <SellCount>
+            <userId>1002</userId>
+            <wareId>01</wareId>
+            <count>10</count>
+        </SellCount>
+        <SellCount>
+            <userId>1002</userId>
+            <wareId>02</wareId>
+            <count>3</count>
+        </SellCount>
+    </Sell>
+</WareSystem>
