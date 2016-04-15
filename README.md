@@ -119,7 +119,7 @@
 - [模拟课程管理系统项目中一个功能模块-录入学生成绩](Practice.md)
 
 
-~~- 作业：对[数据](src/main/resources/WarePrice.xml)录入到数据库后，查询出各商品卖出的总金额
+~~- 作业：对[数据](src/main/resources/WarePrice.xml)录入到数据库后，查询出各商品卖出的总金额~~
 - 更新作业：对[数据](src/main/resources/WareSalesSystemInfo.xml)录入到数据库后，查询出各商品卖出的总金额
 
 - 附：
