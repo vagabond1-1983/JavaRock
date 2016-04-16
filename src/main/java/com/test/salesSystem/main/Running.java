@@ -14,6 +14,7 @@ import java.util.TreeMap;
 
 /**
  * Created by beigui on 2016/4/16.
+ * @author lichangxin & fangweili & maxiaoyu & jiabin & xueguiyang
  */
 public class Running {
     public static void main(String[] args) throws ConfigurationException {
