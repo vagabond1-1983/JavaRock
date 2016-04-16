@@ -1,6 +1,7 @@
 package com.test.courseManage.main;
 
 import com.test.courseManage.domain.*;
+import com.test.courseManage.service.DataService;
 import com.test.courseManage.service.XmlService;
 import org.apache.commons.configuration.ConfigurationException;
 
@@ -30,11 +31,19 @@ public class RunningMan {
         List<TeacherCourse> teacherCourses = xmlService.getTechCourse("TechCourses.TechCourse.", teachers, courses);
         List<Score> scores = xmlService.getScores("Scores.Score.", courses, students);
 //        //3. 对象写入DB
-//        DataService dataService = new DataService();
-//        dataService.insertTeachers(teachers);
-//        dataService.insertStudents(students);
-//        dataService.insertCourses(courses);
-//        dataService.insertTechCourses(teacherCourses);
-//        dataService.insertScores(scores);
+        String driver = "com.mysql.jdbc.Driver";
+        String url = "jdbc:mysql://127.0.0.1:3306/course_management_system?useUnicode=true&characterEncoding=UTF-8";
+        String username = "root";
+        String password = "password";
+        DataService dataService = new DataService(driver, url, username, password);
+        dataService.insertTeachers(teachers);
+        dataService.insertStudents(students);
+        dataService.insertCourses(courses);
+        dataService.insertTechCourses(teacherCourses);
+        dataService.insertScores(scores);
+
+        for (Integer item : courses.keySet()) {
+            System.out.println(dataService.queryMaxScore(item).toString());
+        }
     }
 }
