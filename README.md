@@ -133,3 +133,4 @@
     - [代码规范](https://github.com/vagabond1-1983/javaDemo/issues/15)
     - 如何把项目导入到本地工程中 - download zip -> unzip -> open project folder
     - [Java API在线文档](http://tool.oschina.net/apidocs/apidoc?api=jdk-zh)，学会查文档
+    - Java WIKI页，参见工程的WIKI tab页
