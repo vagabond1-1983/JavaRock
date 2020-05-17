@@ -21,7 +21,6 @@ public class Running {
         String datafile = "WareSalesSystemInfo.xml";
         XMLConfiguration xml = null;
         xml = new XMLConfiguration(datafile);
-
         Map<Integer, User> user = new TreeMap<Integer, User>();
         Map<Integer, Ware> ware = new TreeMap<Integer, Ware>();
 

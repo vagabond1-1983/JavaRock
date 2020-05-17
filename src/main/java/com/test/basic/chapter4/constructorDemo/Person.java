@@ -15,7 +15,6 @@ class Person {
     String name;
     int age;
     Person() {}
-
     Person(String pname, int page) {
         name = pname;
         age = page;
